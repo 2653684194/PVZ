@@ -1,0 +1,153 @@
+Game_Saved
+GlobalTick 1105
+ZombiePool 0
+RegularZombie 10675 0 0 0
+20 20 2 367 1 1 0 750 1 0
+ContentEnd
+ZombiePool 1
+RegularZombie 11605 1 1 0
+100 100 15 967 1 1 0 0 0 0
+ContentEnd
+ZombiePool 2
+ContentEnd
+ZombiePool 3
+RegularZombie 10585 3 3 0
+0 10 3 147 1 0 0 514 0 0
+ContentEnd
+ZombiePool 4
+RegularZombie 11275 4 4 0
+100 100 1 767 1 1 0 0 0 0
+ContentEnd
+Map
+PeaShooter 0 0
+100 100 9 3922
+PeaShooter 0 1
+100 100 1 6936
+PeaShooter 0 2
+100 100 7 5103
+PeaShooter 0 3
+100 100 4 5904
+Repeater 0 4 100 100 0 1017 1017
+SunFlower 1 0
+100 100 1 238 1159
+SunFlower 1 1
+100 100 16 754 1094
+SunFlower 1 2
+100 100 8 1083 1350
+SunFlower 1 3
+100 100 4 754 1094
+SunFlower 1 4
+100 100 10 866 1119
+SunFlower 2 0
+100 100 15 466 1166
+SunFlower 2 1
+100 100 3 274 1159
+SunFlower 2 2
+100 100 13 510 1095
+SunFlower 2 3
+100 100 16 965 1278
+SunFlower 2 4
+100 100 6 900 1153
+SnowPea 3 0 100 100 14 302
+SnowPea 3 1 100 100 0 2010
+SnowPea 3 2 100 100 11 3294
+SnowPea 3 3 100 100 0 6506
+SnowPea 3 4 100 100 12 4276
+Repeater 4 0 100 100 7 7094 1064
+Repeater 4 1 100 100 1 8213 1103
+Repeater 4 2 100 100 9 245 1055
+Wallnut 8 2 462.5 462.5 1
+ContentEnd
+BulletPool 0
+Pea 10025 0
+ 10 100
+Pea 9700 0
+ 10 100
+Pea 9100 0
+ 10 100
+Pea 9100 0
+ 10 100
+Pea 6100 0
+ 10 100
+ContentEnd
+BulletPool 1
+Pea 11400 1
+ 10 100
+Pea 10800 1
+ 10 100
+Pea 10025 1
+ 10 100
+Pea 8400 1
+ 10 100
+Pea 7600 1
+ 10 100
+Pea 4600 1
+ 10 100
+ContentEnd
+BulletPool 2
+Pea 11700 2
+ 10 100
+Pea 10000 2
+ 10 100
+Pea 9400 2
+ 10 100
+Pea 9225 2
+ 10 100
+Pea 8700 2
+ 10 100
+Pea 5700 2
+ 10 100
+ContentEnd
+BulletPool 3
+Pea 10225 3
+ 10 100
+Pea 9000 3
+ 10 100
+Pea 6000 3
+ 10 100
+ContentEnd
+BulletPool 4
+Pea 9900 4
+ 10 100
+Pea 9525 4
+ 10 100
+Pea 9300 4
+ 10 100
+Pea 6900 4
+ 10 100
+Pea 6300 4
+ 10 100
+ContentEnd
+SunPool 0
+ContentEnd
+SunPool 1
+ContentEnd
+SunPool 2
+Sun 4405 4103
+4 1083 3 208 60.1999969482 -18.0000000000 0.5000000000
+ContentEnd
+SunPool 3
+Sun 4066 3568
+24 965 4 263 0.0351416953 -18.0000000000 0.3810000122
+ContentEnd
+SunPool 4
+Sun 3739 1609
+11 866 4 318 0.4851264656 18.0000000000 0.1780000329
+Sun 3493 1086
+6 900 4 318 83.5999984741 6.0000000000 0.0800000429
+ContentEnd
+SunPool 5
+ContentEnd
+CardPool_Content
+PeaShooter_Card 80 3 5000 75
+1 0 6936
+SunFlower_Card 107 3 5000 75
+1 0 396
+SnowPea_Card 134 3 5000 75
+1 0 6506
+Repeater_Card 161 3 5000 75
+0 0.0444444 245
+WallNut_Card 188 3 5000 75
+0 0.762222 463
+ContentEnd
+SunScore 950 0
