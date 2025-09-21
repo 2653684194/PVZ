@@ -22,7 +22,7 @@ Pea::Pea(COORD xx,COORD yy,SPD spd,DG dg,short flag):Bullet(xx,yy,spd,dg),PeaFla
 void Pea::LoadTexture(){//不可以使用精灵预处理，因为根本不能渲染
     std::cout<<"====================================Pea LoadTexture"<<std::endl;
     sf::Texture t;
-    t.loadFromFile(ParentPath+ImgPath+"Pea.png");
+    t.loadFromFile((ParentPath+ImgPath+"Pea.png"));
     TextureArr[1]=t;
     sf::Texture t2;
     t2.loadFromFile(ParentPath+ImgPath+"IcePea.png");
