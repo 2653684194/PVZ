@@ -1,0 +1,3515 @@
+Game_Saved
+GlobalTick 5874
+ZombiePool 0
+ConeheadZombie 1475 0 0 0
+200 200 8 787 1 1 0 0 0 0
+ConeheadZombie 1475 0 0 0
+200 200 8 793 1 1 0 0 0 0
+ConeheadZombie 1475 0 0 0
+200 200 7 833 1 1 0 0 0 0
+ConeheadZombie 1475 0 0 0
+200 200 7 827 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 9 791 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 9 785 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 9 803 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 9 797 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 809 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 789 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 795 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 837 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 819 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 813 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 783 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 807 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 8 801 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 7 805 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 7 799 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 7 811 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 7 823 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 7 847 1 1 0 0 0 0
+ConeheadZombie 1525 0 0 0
+200 200 7 841 1 1 0 0 0 0
+ConeheadZombie 1535 0 0 0
+200 200 6 851 1 1 0 0 0 0
+ConeheadZombie 1535 0 0 0
+200 200 5 855 1 1 0 0 0 0
+ConeheadZombie 1605 0 0 0
+200 200 9 817 1 1 0 0 0 0
+ConeheadZombie 1605 0 0 0
+200 200 9 815 1 1 0 0 0 0
+ConeheadZombie 1605 0 0 0
+200 200 8 821 1 1 0 0 0 0
+ConeheadZombie 1605 0 0 0
+200 200 8 825 1 1 0 0 0 0
+ConeheadZombie 1605 0 0 0
+200 200 7 831 1 1 0 0 0 0
+ConeheadZombie 1605 0 0 0
+200 200 7 829 1 1 0 0 0 0
+ConeheadZombie 1615 0 0 0
+200 200 5 991 1 1 0 0 0 0
+ConeheadZombie 1625 0 0 0
+200 200 6 835 1 1 0 0 0 0
+ConeheadZombie 1625 0 0 0
+200 200 6 839 1 1 0 0 0 0
+ConeheadZombie 1635 0 0 0
+200 200 4 1001 1 1 0 0 0 0
+ConeheadZombie 1635 0 0 0
+200 200 4 995 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 3 1005 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 2 1015 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 2 1009 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 1 1019 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 0 1029 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 0 1023 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 5 845 1 1 0 0 0 0
+ConeheadZombie 1645 0 0 0
+200 200 5 843 1 1 0 0 0 0
+ConeheadZombie 1675 0 0 0
+200 200 4 853 1 1 0 0 0 0
+ConeheadZombie 1665 0 0 0
+200 200 4 849 1 1 0 0 0 0
+ConeheadZombie 1675 0 0 0
+200 200 3 857 1 1 0 0 0 0
+ConeheadZombie 1675 0 0 0
+200 200 3 859 1 1 0 0 0 0
+ConeheadZombie 1665 0 0 0
+200 200 20 1033 1 1 0 0 0 0
+ConeheadZombie 1685 0 0 0
+200 200 19 1043 1 1 0 0 0 0
+ConeheadZombie 1685 0 0 0
+200 200 19 1037 1 1 0 0 0 0
+ConeheadZombie 1705 0 0 0
+200 200 18 1047 1 1 0 0 0 0
+ConeheadZombie 1715 0 0 0
+200 200 17 1057 1 1 0 0 0 0
+ConeheadZombie 1715 0 0 0
+200 200 17 1051 1 1 0 0 0 0
+ConeheadZombie 1735 0 0 0
+200 200 16 1061 1 1 0 0 0 0
+ConeheadZombie 1755 0 0 0
+200 200 15 1071 1 1 0 0 0 0
+ConeheadZombie 1755 0 0 0
+200 200 15 1065 1 1 0 0 0 0
+ConeheadZombie 1785 0 0 0
+200 200 14 1075 1 1 0 0 0 0
+ConeheadZombie 1805 0 0 0
+200 200 13 1085 1 1 0 0 0 0
+ConeheadZombie 1805 0 0 0
+200 200 13 1079 1 1 0 0 0 0
+ConeheadZombie 1825 0 0 0
+200 200 12 1089 1 1 0 0 0 0
+ConeheadZombie 1855 0 0 0
+200 200 11 1099 1 1 0 0 0 0
+ConeheadZombie 1855 0 0 0
+200 200 11 1093 1 1 0 0 0 0
+ConeheadZombie 1875 0 0 0
+200 200 10 1103 1 1 0 0 0 0
+ConeheadZombie 1885 0 0 0
+200 200 9 1113 1 1 0 0 0 0
+ConeheadZombie 1885 0 0 0
+200 200 9 1107 1 1 0 0 0 0
+ConeheadZombie 1885 0 0 0
+200 200 8 1117 1 1 0 0 0 0
+ConeheadZombie 1885 0 0 0
+200 200 7 1127 1 1 0 0 0 0
+ConeheadZombie 1885 0 0 0
+200 200 7 1121 1 1 0 0 0 0
+ConeheadZombie 1895 0 0 0
+200 200 6 1131 1 1 0 0 0 0
+ConeheadZombie 1925 0 0 0
+200 200 5 1141 1 1 0 0 0 0
+ConeheadZombie 1925 0 0 0
+200 200 5 1135 1 1 0 0 0 0
+ConeheadZombie 1945 0 0 0
+200 200 4 1145 1 1 0 0 0 0
+ConeheadZombie 1945 0 0 0
+200 200 5 989 1 1 0 0 0 0
+ConeheadZombie 1945 0 0 0
+200 200 5 993 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 4 997 1 1 0 0 0 0
+ConeheadZombie 1955 0 0 0
+200 200 3 1155 1 1 0 0 0 0
+ConeheadZombie 1955 0 0 0
+200 200 3 1149 1 1 0 0 0 0
+ConeheadZombie 1965 0 0 0
+200 200 4 999 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 3 1007 1 1 0 0 0 0
+ConeheadZombie 1955 0 0 0
+200 200 2 1159 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 3 1003 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 2 1011 1 1 0 0 0 0
+ConeheadZombie 1955 0 0 0
+200 200 1 1169 1 1 0 0 0 0
+ConeheadZombie 1955 0 0 0
+200 200 1 1163 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 2 1013 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 1 1021 1 1 0 0 0 0
+ConeheadZombie 1955 0 0 0
+200 200 0 1173 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 1 1017 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 0 1025 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 20 1177 1 1 0 0 0 0
+ConeheadZombie 1975 0 0 0
+200 200 0 1027 1 1 0 0 0 0
+ConeheadZombie 1985 0 0 0
+200 200 20 1035 1 1 0 0 0 0
+ConeheadZombie 1995 0 0 0
+200 200 20 1031 1 1 0 0 0 0
+ConeheadZombie 2015 0 0 0
+200 200 19 1039 1 1 0 0 0 0
+ConeheadZombie 2015 0 0 0
+200 200 19 1041 1 1 0 0 0 0
+ConeheadZombie 2045 0 0 0
+200 200 18 1045 1 1 0 0 0 0
+ConeheadZombie 2035 0 0 0
+200 200 18 1049 1 1 0 0 0 0
+ConeheadZombie 2045 0 0 0
+200 200 17 1055 1 1 0 0 0 0
+ConeheadZombie 2045 0 0 0
+200 200 17 1053 1 1 0 0 0 0
+ConeheadZombie 2055 0 0 0
+200 200 16 1059 1 1 0 0 0 0
+ConeheadZombie 2065 0 0 0
+200 200 16 1063 1 1 0 0 0 0
+ConeheadZombie 2085 0 0 0
+200 200 15 1069 1 1 0 0 0 0
+ConeheadZombie 2085 0 0 0
+200 200 15 1067 1 1 0 0 0 0
+ConeheadZombie 2105 0 0 0
+200 200 14 1073 1 1 0 0 0 0
+ConeheadZombie 2105 0 0 0
+200 200 14 1077 1 1 0 0 0 0
+ConeheadZombie 2125 0 0 0
+200 200 13 1083 1 1 0 0 0 0
+ConeheadZombie 2135 0 0 0
+200 200 13 1081 1 1 0 0 0 0
+ConeheadZombie 2155 0 0 0
+200 200 12 1087 1 1 0 0 0 0
+ConeheadZombie 2155 0 0 0
+200 200 12 1091 1 1 0 0 0 0
+ConeheadZombie 2175 0 0 0
+200 200 11 1097 1 1 0 0 0 0
+ConeheadZombie 2175 0 0 0
+200 200 11 1095 1 1 0 0 0 0
+ConeheadZombie 2195 0 0 0
+200 200 10 1101 1 1 0 0 0 0
+ConeheadZombie 2205 0 0 0
+200 200 10 1105 1 1 0 0 0 0
+ConeheadZombie 2205 0 0 0
+200 200 9 1111 1 1 0 0 0 0
+ConeheadZombie 2205 0 0 0
+200 200 9 1109 1 1 0 0 0 0
+ConeheadZombie 2205 0 0 0
+200 200 8 1115 1 1 0 0 0 0
+ConeheadZombie 2205 0 0 0
+200 200 8 1119 1 1 0 0 0 0
+ConeheadZombie 2205 0 0 0
+200 200 7 1125 1 1 0 0 0 0
+ConeheadZombie 2205 0 0 0
+200 200 7 1123 1 1 0 0 0 0
+ConeheadZombie 2225 0 0 0
+200 200 6 1129 1 1 0 0 0 0
+ConeheadZombie 2225 0 0 0
+200 200 6 1133 1 1 0 0 0 0
+ConeheadZombie 2245 0 0 0
+200 200 5 1139 1 1 0 0 0 0
+ConeheadZombie 2245 0 0 0
+200 200 5 1137 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 4 1147 1 1 0 0 0 0
+ConeheadZombie 2265 0 0 0
+200 200 4 1143 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 3 1151 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 3 1153 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 2 1161 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 2 1157 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 1 1165 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 1 1167 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 0 1175 1 1 0 0 0 0
+ConeheadZombie 2275 0 0 0
+200 200 0 1171 1 1 0 0 0 0
+ConeheadZombie 2285 0 0 0
+200 200 20 1179 1 1 0 0 0 0
+ConeheadZombie 2925 0 0 0
+200 200 19 1631 1 1 0 0 0 0
+ConeheadZombie 2945 0 0 0
+200 200 18 1635 1 1 0 0 0 0
+ConeheadZombie 2955 0 0 0
+200 200 17 1645 1 1 0 0 0 0
+ConeheadZombie 2955 0 0 0
+200 200 17 1639 1 1 0 0 0 0
+ConeheadZombie 2975 0 0 0
+200 200 16 1649 1 1 0 0 0 0
+ConeheadZombie 2995 0 0 0
+200 200 15 1659 1 1 0 0 0 0
+ConeheadZombie 2995 0 0 0
+200 200 15 1653 1 1 0 0 0 0
+ConeheadZombie 3025 0 0 0
+200 200 14 1663 1 1 0 0 0 0
+ConeheadZombie 3045 0 0 0
+200 200 13 1673 1 1 0 0 0 0
+ConeheadZombie 3045 0 0 0
+200 200 13 1667 1 1 0 0 0 0
+ConeheadZombie 3065 0 0 0
+200 200 12 1677 1 1 0 0 0 0
+ConeheadZombie 3095 0 0 0
+200 200 11 1687 1 1 0 0 0 0
+ConeheadZombie 3095 0 0 0
+200 200 11 1681 1 1 0 0 0 0
+ConeheadZombie 3115 0 0 0
+200 200 10 1691 1 1 0 0 0 0
+RegularZombie 3175 0 0 0
+100 100 17 1185 1 1 0 0 0 0
+RegularZombie 3175 0 0 0
+100 100 17 1183 1 1 0 0 0 0
+RegularZombie 3175 0 0 0
+100 100 17 1187 1 1 0 0 0 0
+RegularZombie 3175 0 0 0
+100 100 17 1181 1 1 0 0 0 0
+RegularZombie 3175 0 0 0
+100 100 16 1197 1 1 0 0 0 0
+RegularZombie 3175 0 0 0
+100 100 16 1191 1 1 0 0 0 0
+RegularZombie 3185 0 0 0
+100 100 16 1195 1 1 0 0 0 0
+RegularZombie 3185 0 0 0
+100 100 16 1189 1 1 0 0 0 0
+RegularZombie 3185 0 0 0
+100 100 16 1193 1 1 0 0 0 0
+RegularZombie 3205 0 0 0
+100 100 15 1203 1 1 0 0 0 0
+RegularZombie 3215 0 0 0
+100 100 15 1201 1 1 0 0 0 0
+RegularZombie 3215 0 0 0
+100 100 15 1205 1 1 0 0 0 0
+RegularZombie 3215 0 0 0
+100 100 15 1199 1 1 0 0 0 0
+ConeheadZombie 3215 0 0 0
+200 200 19 1629 1 1 0 0 0 0
+ConeheadZombie 3245 0 0 0
+200 200 18 1633 1 1 0 0 0 0
+ConeheadZombie 3235 0 0 0
+200 200 18 1637 1 1 0 0 0 0
+ConeheadZombie 3245 0 0 0
+200 200 17 1643 1 1 0 0 0 0
+RegularZombie 3235 0 0 0
+100 100 14 1215 1 1 0 0 0 0
+RegularZombie 3235 0 0 0
+100 100 14 1209 1 1 0 0 0 0
+ConeheadZombie 3245 0 0 0
+200 200 17 1641 1 1 0 0 0 0
+RegularZombie 3245 0 0 0
+100 100 14 1213 1 1 0 0 0 0
+RegularZombie 3245 0 0 0
+100 100 14 1207 1 1 0 0 0 0
+RegularZombie 3245 0 0 0
+100 100 14 1211 1 1 0 0 0 0
+ConeheadZombie 3255 0 0 0
+200 200 16 1647 1 1 0 0 0 0
+ConeheadZombie 3265 0 0 0
+200 200 16 1651 1 1 0 0 0 0
+RegularZombie 3265 0 0 0
+100 100 13 1221 1 1 0 0 0 0
+RegularZombie 3275 0 0 0
+100 100 13 1219 1 1 0 0 0 0
+RegularZombie 3275 0 0 0
+100 100 13 1223 1 1 0 0 0 0
+RegularZombie 3275 0 0 0
+100 100 13 1217 1 1 0 0 0 0
+ConeheadZombie 3285 0 0 0
+200 200 15 1657 1 1 0 0 0 0
+ConeheadZombie 3285 0 0 0
+200 200 15 1655 1 1 0 0 0 0
+RegularZombie 3295 0 0 0
+100 100 12 1233 1 1 0 0 0 0
+RegularZombie 3295 0 0 0
+100 100 12 1227 1 1 0 0 0 0
+RegularZombie 3305 0 0 0
+100 100 12 1231 1 1 0 0 0 0
+RegularZombie 3305 0 0 0
+100 100 12 1225 1 1 0 0 0 0
+RegularZombie 3305 0 0 0
+100 100 12 1229 1 1 0 0 0 0
+ConeheadZombie 3305 0 0 0
+200 200 14 1661 1 1 0 0 0 0
+ConeheadZombie 3305 0 0 0
+200 200 14 1665 1 1 0 0 0 0
+RegularZombie 3325 0 0 0
+100 100 11 1239 1 1 0 0 0 0
+ConeheadZombie 3325 0 0 0
+200 200 13 1671 1 1 0 0 0 0
+RegularZombie 3335 0 0 0
+100 100 11 1237 1 1 0 0 0 0
+ConeheadZombie 3335 0 0 0
+200 200 13 1669 1 1 0 0 0 0
+RegularZombie 3335 0 0 0
+100 100 11 1241 1 1 0 0 0 0
+RegularZombie 3335 0 0 0
+100 100 11 1235 1 1 0 0 0 0
+ConeheadZombie 3355 0 0 0
+200 200 12 1675 1 1 0 0 0 0
+ConeheadZombie 3355 0 0 0
+200 200 12 1679 1 1 0 0 0 0
+RegularZombie 3355 0 0 0
+100 100 10 1251 1 1 0 0 0 0
+RegularZombie 3355 0 0 0
+100 100 10 1245 1 1 0 0 0 0
+RegularZombie 3365 0 0 0
+100 100 10 1249 1 1 0 0 0 0
+RegularZombie 3365 0 0 0
+100 100 10 1243 1 1 0 0 0 0
+RegularZombie 3365 0 0 0
+100 100 10 1247 1 1 0 0 0 0
+ConeheadZombie 3375 0 0 0
+200 200 11 1685 1 1 0 0 0 0
+ConeheadZombie 3375 0 0 0
+200 200 11 1683 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 9 1257 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 9 1255 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 9 1259 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 9 1253 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 8 1269 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 8 1263 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 8 1267 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 8 1261 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 8 1265 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 7 1275 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 7 1273 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 7 1277 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 7 1271 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 6 1287 1 1 0 0 0 0
+RegularZombie 3385 0 0 0
+100 100 6 1281 1 1 0 0 0 0
+RegularZombie 3395 0 0 0
+100 100 6 1285 1 1 0 0 0 0
+RegularZombie 3395 0 0 0
+100 100 6 1279 1 1 0 0 0 0
+RegularZombie 3395 0 0 0
+100 100 6 1283 1 1 0 0 0 0
+ConeheadZombie 3395 0 0 0
+200 200 10 1689 1 1 0 0 0 0
+RegularZombie 3415 0 0 0
+100 100 5 1293 1 1 0 0 0 0
+RegularZombie 3425 0 0 0
+100 100 5 1291 1 1 0 0 0 0
+RegularZombie 3425 0 0 0
+100 100 5 1295 1 1 0 0 0 0
+RegularZombie 3425 0 0 0
+100 100 5 1289 1 1 0 0 0 0
+RegularZombie 3445 0 0 0
+100 100 4 1305 1 1 0 0 0 0
+RegularZombie 3445 0 0 0
+100 100 4 1299 1 1 0 0 0 0
+RegularZombie 3455 0 0 0
+100 100 4 1303 1 1 0 0 0 0
+RegularZombie 3455 0 0 0
+100 100 4 1297 1 1 0 0 0 0
+RegularZombie 3455 0 0 0
+100 100 4 1301 1 1 0 0 0 0
+RegularZombie 3475 0 0 0
+100 100 3 1307 1 1 0 0 0 0
+ConeheadZombie 3955 0 0 0
+200 200 14 2107 1 1 0 0 0 0
+ConeheadZombie 3975 0 0 0
+200 200 13 2111 1 1 0 0 0 0
+ConeheadZombie 3995 0 0 0
+200 200 12 2121 1 1 0 0 0 0
+ConeheadZombie 3995 0 0 0
+200 200 12 2115 1 1 0 0 0 0
+ConeheadZombie 4025 0 0 0
+200 200 11 2125 1 1 0 0 0 0
+ConeheadZombie 4045 0 0 0
+200 200 10 2135 1 1 0 0 0 0
+ConeheadZombie 4045 0 0 0
+200 200 10 2129 1 1 0 0 0 0
+ConeheadZombie 4055 0 0 0
+200 200 9 2139 1 1 0 0 0 0
+ConeheadZombie 4055 0 0 0
+200 200 8 2149 1 1 0 0 0 0
+ConeheadZombie 4055 0 0 0
+200 200 8 2143 1 1 0 0 0 0
+ConeheadZombie 4055 0 0 0
+200 200 7 2153 1 1 0 0 0 0
+ConeheadZombie 4065 0 0 0
+200 200 6 2163 1 1 0 0 0 0
+ConeheadZombie 4065 0 0 0
+200 200 6 2157 1 1 0 0 0 0
+ConeheadZombie 4095 0 0 0
+200 200 5 2167 1 1 0 0 0 0
+ConeheadZombie 4115 0 0 0
+200 200 4 2177 1 1 0 0 0 0
+ConeheadZombie 4115 0 0 0
+200 200 4 2171 1 1 0 0 0 0
+ConeheadZombie 4125 0 0 0
+200 200 3 2181 1 1 0 0 0 0
+ConeheadZombie 4125 0 0 0
+200 200 2 2191 1 1 0 0 0 0
+ConeheadZombie 4125 0 0 0
+200 200 2 2185 1 1 0 0 0 0
+ConeheadZombie 4125 0 0 0
+200 200 1 2195 1 1 0 0 0 0
+ConeheadZombie 4125 0 0 0
+200 200 0 2205 1 1 0 0 0 0
+ConeheadZombie 4125 0 0 0
+200 200 0 2199 1 1 0 0 0 0
+ConeheadZombie 4145 0 0 0
+200 200 20 2209 1 1 0 0 0 0
+ConeheadZombie 4165 0 0 0
+200 200 19 2219 1 1 0 0 0 0
+ConeheadZombie 4165 0 0 0
+200 200 19 2213 1 1 0 0 0 0
+ConeheadZombie 4185 0 0 0
+200 200 18 2223 1 1 0 0 0 0
+ConeheadZombie 4195 0 0 0
+200 200 17 2233 1 1 0 0 0 0
+ConeheadZombie 4195 0 0 0
+200 200 17 2227 1 1 0 0 0 0
+ConeheadZombie 4205 0 0 0
+200 200 14 2105 1 1 0 0 0 0
+ConeheadZombie 4215 0 0 0
+200 200 16 2237 1 1 0 0 0 0
+ConeheadZombie 4225 0 0 0
+200 200 13 2109 1 1 0 0 0 0
+ConeheadZombie 4235 0 0 0
+200 200 13 2113 1 1 0 0 0 0
+ConeheadZombie 4235 0 0 0
+200 200 15 2247 1 1 0 0 0 0
+ConeheadZombie 4235 0 0 0
+200 200 15 2241 1 1 0 0 0 0
+ConeheadZombie 4255 0 0 0
+200 200 12 2119 1 1 0 0 0 0
+ConeheadZombie 4255 0 0 0
+200 200 12 2117 1 1 0 0 0 0
+ConeheadZombie 4265 0 0 0
+200 200 14 2251 1 1 0 0 0 0
+ConeheadZombie 4275 0 0 0
+200 200 11 2123 1 1 0 0 0 0
+ConeheadZombie 4275 0 0 0
+200 200 11 2127 1 1 0 0 0 0
+ConeheadZombie 4285 0 0 0
+200 200 13 2261 1 1 0 0 0 0
+ConeheadZombie 4285 0 0 0
+200 200 13 2255 1 1 0 0 0 0
+ConeheadZombie 4295 0 0 0
+200 200 10 2133 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 10 2131 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 9 2137 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 9 2141 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 8 2147 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 8 2145 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 7 2151 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 7 2155 1 1 0 0 0 0
+ConeheadZombie 4305 0 0 0
+200 200 12 2265 1 1 0 0 0 0
+ConeheadZombie 4325 0 0 0
+200 200 6 2161 1 1 0 0 0 0
+ConeheadZombie 4325 0 0 0
+200 200 6 2159 1 1 0 0 0 0
+ConeheadZombie 4335 0 0 0
+200 200 11 2275 1 1 0 0 0 0
+ConeheadZombie 4335 0 0 0
+200 200 11 2269 1 1 0 0 0 0
+ConeheadZombie 4345 0 0 0
+200 200 5 2165 1 1 0 0 0 0
+ConeheadZombie 4345 0 0 0
+200 200 5 2169 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 4 2173 1 1 0 0 0 0
+ConeheadZombie 4365 0 0 0
+200 200 4 2175 1 1 0 0 0 0
+ConeheadZombie 4355 0 0 0
+200 200 10 2279 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 3 2183 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 3 2179 1 1 0 0 0 0
+ConeheadZombie 4365 0 0 0
+200 200 9 2289 1 1 0 0 0 0
+ConeheadZombie 4365 0 0 0
+200 200 9 2283 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 2 2187 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 2 2189 1 1 0 0 0 0
+ConeheadZombie 4365 0 0 0
+200 200 8 2293 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 1 2197 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 1 2193 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 0 2201 1 1 0 0 0 0
+ConeheadZombie 4375 0 0 0
+200 200 0 2203 1 1 0 0 0 0
+ConeheadZombie 4385 0 0 0
+200 200 20 2211 1 1 0 0 0 0
+ConeheadZombie 4395 0 0 0
+200 200 20 2207 1 1 0 0 0 0
+RegularZombie 4405 0 0 0
+100 100 15 1851 1 1 0 0 0 0
+ConeheadZombie 4415 0 0 0
+200 200 19 2215 1 1 0 0 0 0
+RegularZombie 4415 0 0 0
+100 100 15 1849 1 1 0 0 0 0
+RegularZombie 4415 0 0 0
+100 100 15 1853 1 1 0 0 0 0
+ConeheadZombie 4415 0 0 0
+200 200 19 2217 1 1 0 0 0 0
+ConeheadZombie 4445 0 0 0
+200 200 18 2221 1 1 0 0 0 0
+ConeheadZombie 4435 0 0 0
+200 200 18 2225 1 1 0 0 0 0
+ConeheadZombie 4445 0 0 0
+200 200 17 2231 1 1 0 0 0 0
+RegularZombie 4435 0 0 0
+100 100 14 1863 1 1 0 0 0 0
+RegularZombie 4435 0 0 0
+100 100 14 1857 1 1 0 0 0 0
+ConeheadZombie 4445 0 0 0
+200 200 17 2229 1 1 0 0 0 0
+RegularZombie 4445 0 0 0
+100 100 14 1861 1 1 0 0 0 0
+RegularZombie 4445 0 0 0
+100 100 14 1855 1 1 0 0 0 0
+RegularZombie 4445 0 0 0
+100 100 14 1859 1 1 0 0 0 0
+ConeheadZombie 4455 0 0 0
+200 200 16 2235 1 1 0 0 0 0
+ConeheadZombie 4465 0 0 0
+200 200 16 2239 1 1 0 0 0 0
+RegularZombie 4465 0 0 0
+100 100 13 1869 1 1 0 0 0 0
+RegularZombie 4475 0 0 0
+100 100 13 1867 1 1 0 0 0 0
+RegularZombie 4475 0 0 0
+100 100 13 1871 1 1 0 0 0 0
+RegularZombie 4475 0 0 0
+100 100 13 1865 1 1 0 0 0 0
+ConeheadZombie 4485 0 0 0
+200 200 15 2245 1 1 0 0 0 0
+ConeheadZombie 4485 0 0 0
+200 200 15 2243 1 1 0 0 0 0
+RegularZombie 4495 0 0 0
+100 100 12 1881 1 1 0 0 0 0
+RegularZombie 4495 0 0 0
+100 100 12 1875 1 1 0 0 0 0
+RegularZombie 4505 0 0 0
+100 100 12 1879 1 1 0 0 0 0
+RegularZombie 4505 0 0 0
+100 100 12 1873 1 1 0 0 0 0
+RegularZombie 4505 0 0 0
+100 100 12 1877 1 1 0 0 0 0
+ConeheadZombie 4505 0 0 0
+200 200 14 2249 1 1 0 0 0 0
+ConeheadZombie 4505 0 0 0
+200 200 14 2253 1 1 0 0 0 0
+RegularZombie 4525 0 0 0
+100 100 11 1887 1 1 0 0 0 0
+ConeheadZombie 4525 0 0 0
+200 200 13 2259 1 1 0 0 0 0
+RegularZombie 4535 0 0 0
+100 100 11 1885 1 1 0 0 0 0
+ConeheadZombie 4535 0 0 0
+200 200 13 2257 1 1 0 0 0 0
+RegularZombie 4535 0 0 0
+100 100 11 1889 1 1 0 0 0 0
+RegularZombie 4535 0 0 0
+100 100 11 1883 1 1 0 0 0 0
+ConeheadZombie 4555 0 0 0
+200 200 12 2263 1 1 0 0 0 0
+ConeheadZombie 4555 0 0 0
+200 200 12 2267 1 1 0 0 0 0
+RegularZombie 4555 0 0 0
+100 100 10 1899 1 1 0 0 0 0
+RegularZombie 4555 0 0 0
+100 100 10 1893 1 1 0 0 0 0
+RegularZombie 4565 0 0 0
+100 100 10 1897 1 1 0 0 0 0
+RegularZombie 4565 0 0 0
+100 100 10 1891 1 1 0 0 0 0
+RegularZombie 4565 0 0 0
+100 100 10 1895 1 1 0 0 0 0
+ConeheadZombie 4575 0 0 0
+200 200 11 2273 1 1 0 0 0 0
+ConeheadZombie 4575 0 0 0
+200 200 11 2271 1 1 0 0 0 0
+RegularZombie 4585 0 0 0
+100 100 9 1905 1 1 0 0 0 0
+RegularZombie 4585 0 0 0
+100 100 9 1903 1 1 0 0 0 0
+RegularZombie 4585 0 0 0
+100 100 9 1907 1 1 0 0 0 0
+RegularZombie 4585 0 0 0
+100 100 9 1901 1 1 0 0 0 0
+RegularZombie 4585 0 0 0
+100 100 8 1911 1 1 0 0 0 0
+RegularZombie 4585 0 0 0
+100 100 8 1909 1 1 0 0 0 0
+ConeheadZombie 4595 0 0 0
+200 200 10 2277 1 1 0 0 0 0
+ConeheadZombie 4605 0 0 0
+200 200 10 2281 1 1 0 0 0 0
+ConeheadZombie 4605 0 0 0
+200 200 9 2287 1 1 0 0 0 0
+ConeheadZombie 4605 0 0 0
+200 200 9 2285 1 1 0 0 0 0
+ConeheadZombie 4605 0 0 0
+200 200 8 2291 1 1 0 0 0 0
+ConeheadZombie 4605 0 0 0
+200 200 8 2295 1 1 0 0 0 0
+ConeheadZombie 4665 0 0 0
+200 200 10 2429 1 1 0 0 0 0
+ConeheadZombie 4675 0 0 0
+200 200 9 2433 1 1 0 0 0 0
+ConeheadZombie 4675 0 0 0
+200 200 8 2443 1 1 0 0 0 0
+ConeheadZombie 4675 0 0 0
+200 200 8 2437 1 1 0 0 0 0
+ConeheadZombie 4675 0 0 0
+200 200 7 2447 1 1 0 0 0 0
+ConeheadZombie 4685 0 0 0
+200 200 6 2457 1 1 0 0 0 0
+ConeheadZombie 4685 0 0 0
+200 200 6 2451 1 1 0 0 0 0
+ConeheadZombie 4715 0 0 0
+200 200 5 2461 1 1 0 0 0 0
+ConeheadZombie 4735 0 0 0
+200 200 4 2471 1 1 0 0 0 0
+ConeheadZombie 4735 0 0 0
+200 200 4 2465 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 3 2475 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 2 2485 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 2 2479 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 1 2489 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 1 2489 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 0 2499 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 0 2499 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 0 2493 1 1 0 0 0 0
+ConeheadZombie 4745 0 0 0
+200 200 0 2493 1 1 0 0 0 0
+ConeheadZombie 4765 0 0 0
+200 200 20 2503 1 1 0 0 0 0
+ConeheadZombie 4765 0 0 0
+200 200 20 2503 1 1 0 0 0 0
+ConeheadZombie 4785 0 0 0
+200 200 19 2507 1 1 0 0 0 0
+ConeheadZombie 4785 0 0 0
+200 200 19 2507 1 1 0 0 0 0
+ConeheadZombie 4895 0 0 0
+200 200 10 2427 1 1 0 0 0 0
+ConeheadZombie 4905 0 0 0
+200 200 10 2425 1 1 0 0 0 0
+ConeheadZombie 4905 0 0 0
+200 200 9 2431 1 1 0 0 0 0
+ConeheadZombie 4905 0 0 0
+200 200 9 2435 1 1 0 0 0 0
+ConeheadZombie 4905 0 0 0
+200 200 8 2441 1 1 0 0 0 0
+ConeheadZombie 4905 0 0 0
+200 200 8 2439 1 1 0 0 0 0
+ConeheadZombie 4905 0 0 0
+200 200 7 2445 1 1 0 0 0 0
+ConeheadZombie 4905 0 0 0
+200 200 7 2449 1 1 0 0 0 0
+ConeheadZombie 4925 0 0 0
+200 200 6 2455 1 1 0 0 0 0
+ConeheadZombie 4925 0 0 0
+200 200 6 2453 1 1 0 0 0 0
+ConeheadZombie 4945 0 0 0
+200 200 5 2459 1 1 0 0 0 0
+ConeheadZombie 4945 0 0 0
+200 200 5 2463 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 4 2467 1 1 0 0 0 0
+ConeheadZombie 4965 0 0 0
+200 200 4 2469 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 3 2477 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 3 2473 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 2 2481 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 2 2483 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 1 2491 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 1 2491 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 1 2487 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 0 2495 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 0 2495 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 0 2497 1 1 0 0 0 0
+ConeheadZombie 4975 0 0 0
+200 200 0 2497 1 1 0 0 0 0
+ConeheadZombie 4985 0 0 0
+200 200 20 2505 1 1 0 0 0 0
+ConeheadZombie 4985 0 0 0
+200 200 20 2505 1 1 0 0 0 0
+ConeheadZombie 4995 0 0 0
+200 200 20 2501 1 1 0 0 0 0
+ConeheadZombie 4995 0 0 0
+200 200 20 2501 1 1 0 0 0 0
+ConeheadZombie 5015 0 0 0
+200 200 19 2509 1 1 0 0 0 0
+ConeheadZombie 5015 0 0 0
+200 200 19 2509 1 1 0 0 0 0
+ContentEnd
+ZombiePool 1
+ConeheadZombie 1705 1 1 0
+200 200 13 899 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 899 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 839 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 845 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 833 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 827 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 857 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 923 1 1 0 0 0 0
+ConeheadZombie 1705 1 1 0
+200 200 13 923 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 801 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 807 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 825 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 831 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 819 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 813 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 843 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 891 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 12 891 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 14 915 1 1 0 0 0 0
+ConeheadZombie 1725 1 1 0
+200 200 14 915 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 875 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 875 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 869 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 869 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 893 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 893 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 803 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 917 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 917 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 911 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 911 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 797 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 881 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 881 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 905 1 1 0 0 0 0
+ConeheadZombie 1735 1 1 0
+200 200 14 905 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 867 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 867 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 861 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 861 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 855 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 879 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 879 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 885 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 885 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 909 1 1 0 0 0 0
+ConeheadZombie 1745 1 1 0
+200 200 13 909 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 889 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 889 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 883 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 883 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 865 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 865 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 907 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 907 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 811 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 805 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 799 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 817 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 829 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 877 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 877 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 913 1 1 0 0 0 0
+ConeheadZombie 1755 1 1 0
+200 200 13 913 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 823 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 835 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 895 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 895 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 901 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 901 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 821 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 815 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 809 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 887 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 887 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 851 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 863 1 1 0 0 0 0
+ConeheadZombie 1775 1 1 0
+200 200 12 863 1 1 0 0 0 0
+ConeheadZombie 1785 1 1 0
+200 200 15 919 1 1 0 0 0 0
+ConeheadZombie 1785 1 1 0
+200 200 15 919 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 10 837 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 10 849 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 10 873 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 10 873 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 11 903 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 11 903 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 11 897 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 11 897 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 11 921 1 1 0 0 0 0
+ConeheadZombie 1795 1 1 0
+200 200 11 921 1 1 0 0 0 0
+ConeheadZombie 1805 1 1 0
+200 200 10 853 1 1 0 0 0 0
+ConeheadZombie 1805 1 1 0
+200 200 10 871 1 1 0 0 0 0
+ConeheadZombie 1805 1 1 0
+200 200 10 871 1 1 0 0 0 0
+ConeheadZombie 1805 1 1 0
+200 200 10 847 1 1 0 0 0 0
+ConeheadZombie 1805 1 1 0
+200 200 10 841 1 1 0 0 0 0
+ConeheadZombie 1805 1 1 0
+200 200 10 859 1 1 0 0 0 0
+ConeheadZombie 2665 1 1 0
+200 200 16 1505 1 1 0 0 0 0
+ConeheadZombie 2685 1 1 0
+200 200 15 1509 1 1 0 0 0 0
+ConeheadZombie 2715 1 1 0
+200 200 14 1519 1 1 0 0 0 0
+ConeheadZombie 2715 1 1 0
+200 200 14 1513 1 1 0 0 0 0
+ConeheadZombie 2735 1 1 0
+200 200 13 1523 1 1 0 0 0 0
+ConeheadZombie 2755 1 1 0
+200 200 12 1533 1 1 0 0 0 0
+ConeheadZombie 2755 1 1 0
+200 200 12 1527 1 1 0 0 0 0
+ConeheadZombie 2785 1 1 0
+200 200 11 1537 1 1 0 0 0 0
+ConeheadZombie 2805 1 1 0
+200 200 10 1547 1 1 0 0 0 0
+ConeheadZombie 2805 1 1 0
+200 200 10 1541 1 1 0 0 0 0
+ConeheadZombie 2815 1 1 0
+200 200 9 1551 1 1 0 0 0 0
+ConeheadZombie 2815 1 1 0
+200 200 8 1561 1 1 0 0 0 0
+ConeheadZombie 2815 1 1 0
+200 200 8 1555 1 1 0 0 0 0
+ConeheadZombie 2955 1 1 0
+200 200 16 1503 1 1 0 0 0 0
+ConeheadZombie 2965 1 1 0
+200 200 16 1501 1 1 0 0 0 0
+ConeheadZombie 2985 1 1 0
+200 200 15 1507 1 1 0 0 0 0
+ConeheadZombie 2985 1 1 0
+200 200 15 1511 1 1 0 0 0 0
+ConeheadZombie 3005 1 1 0
+200 200 14 1517 1 1 0 0 0 0
+ConeheadZombie 3005 1 1 0
+200 200 14 1515 1 1 0 0 0 0
+ConeheadZombie 3025 1 1 0
+200 200 13 1521 1 1 0 0 0 0
+ConeheadZombie 3035 1 1 0
+200 200 13 1525 1 1 0 0 0 0
+ConeheadZombie 3055 1 1 0
+200 200 12 1531 1 1 0 0 0 0
+ConeheadZombie 3055 1 1 0
+200 200 12 1529 1 1 0 0 0 0
+ConeheadZombie 3075 1 1 0
+200 200 11 1535 1 1 0 0 0 0
+ConeheadZombie 3075 1 1 0
+200 200 11 1539 1 1 0 0 0 0
+RegularZombie 3085 1 1 0
+100 100 6 1125 1 1 0 0 0 0
+RegularZombie 3085 1 1 0
+100 100 6 1119 1 1 0 0 0 0
+RegularZombie 3095 1 1 0
+100 100 6 1123 1 1 0 0 0 0
+RegularZombie 3095 1 1 0
+100 100 6 1117 1 1 0 0 0 0
+RegularZombie 3095 1 1 0
+100 100 6 1121 1 1 0 0 0 0
+ConeheadZombie 3095 1 1 0
+200 200 10 1545 1 1 0 0 0 0
+ConeheadZombie 3105 1 1 0
+200 200 10 1543 1 1 0 0 0 0
+ConeheadZombie 3105 1 1 0
+200 200 9 1549 1 1 0 0 0 0
+ConeheadZombie 3105 1 1 0
+200 200 9 1553 1 1 0 0 0 0
+ConeheadZombie 3105 1 1 0
+200 200 8 1559 1 1 0 0 0 0
+ConeheadZombie 3105 1 1 0
+200 200 8 1557 1 1 0 0 0 0
+ConeheadZombie 3105 1 1 0
+200 200 7 1563 1 1 0 0 0 0
+RegularZombie 3115 1 1 0
+100 100 5 1131 1 1 0 0 0 0
+RegularZombie 3125 1 1 0
+100 100 5 1129 1 1 0 0 0 0
+RegularZombie 3125 1 1 0
+100 100 5 1133 1 1 0 0 0 0
+RegularZombie 3125 1 1 0
+100 100 5 1127 1 1 0 0 0 0
+RegularZombie 3145 1 1 0
+100 100 4 1143 1 1 0 0 0 0
+RegularZombie 3145 1 1 0
+100 100 4 1137 1 1 0 0 0 0
+RegularZombie 3155 1 1 0
+100 100 4 1141 1 1 0 0 0 0
+RegularZombie 3155 1 1 0
+100 100 4 1135 1 1 0 0 0 0
+RegularZombie 3155 1 1 0
+100 100 4 1139 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 3 1149 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 3 1147 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 3 1151 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 3 1145 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 2 1161 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 2 1155 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 2 1159 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 2 1153 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 2 1157 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 1 1167 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 1 1165 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 1 1169 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 1 1163 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 0 1179 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 0 1173 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 0 1177 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 0 1171 1 1 0 0 0 0
+RegularZombie 3175 1 1 0
+100 100 0 1175 1 1 0 0 0 0
+ConeheadZombie 3195 1 1 0
+200 200 1 1757 1 1 0 0 0 0
+ConeheadZombie 3195 1 1 0
+200 200 1 1751 1 1 0 0 0 0
+ConeheadZombie 3195 1 1 0
+200 200 0 1761 1 1 0 0 0 0
+ConeheadZombie 3215 1 1 0
+200 200 20 1771 1 1 0 0 0 0
+ConeheadZombie 3215 1 1 0
+200 200 20 1765 1 1 0 0 0 0
+ConeheadZombie 3235 1 1 0
+200 200 19 1775 1 1 0 0 0 0
+ConeheadZombie 3255 1 1 0
+200 200 18 1779 1 1 0 0 0 0
+ConeheadZombie 3435 1 1 0
+200 200 8 1855 1 1 0 0 0 0
+ConeheadZombie 3435 1 1 0
+200 200 8 1849 1 1 0 0 0 0
+ConeheadZombie 3435 1 1 0
+200 200 7 1859 1 1 0 0 0 0
+ConeheadZombie 3445 1 1 0
+200 200 6 1869 1 1 0 0 0 0
+ConeheadZombie 3445 1 1 0
+200 200 6 1863 1 1 0 0 0 0
+ConeheadZombie 3475 1 1 0
+200 200 1 1753 1 1 0 0 0 0
+ConeheadZombie 3475 1 1 0
+200 200 1 1755 1 1 0 0 0 0
+ConeheadZombie 3475 1 1 0
+200 200 0 1763 1 1 0 0 0 0
+ConeheadZombie 3475 1 1 0
+200 200 5 1873 1 1 0 0 0 0
+ConeheadZombie 3475 1 1 0
+200 200 0 1759 1 1 0 0 0 0
+ConeheadZombie 3485 1 1 0
+200 200 20 1767 1 1 0 0 0 0
+ConeheadZombie 3495 1 1 0
+200 200 4 1883 1 1 0 0 0 0
+ConeheadZombie 3495 1 1 0
+200 200 4 1877 1 1 0 0 0 0
+ConeheadZombie 3495 1 1 0
+200 200 20 1769 1 1 0 0 0 0
+ConeheadZombie 3505 1 1 0
+200 200 3 1887 1 1 0 0 0 0
+ConeheadZombie 3505 1 1 0
+200 200 2 1897 1 1 0 0 0 0
+ConeheadZombie 3505 1 1 0
+200 200 2 1891 1 1 0 0 0 0
+ConeheadZombie 3505 1 1 0
+200 200 1 1901 1 1 0 0 0 0
+ConeheadZombie 3505 1 1 0
+200 200 0 1911 1 1 0 0 0 0
+ConeheadZombie 3505 1 1 0
+200 200 0 1905 1 1 0 0 0 0
+ConeheadZombie 3515 1 1 0
+200 200 19 1777 1 1 0 0 0 0
+ConeheadZombie 3515 1 1 0
+200 200 19 1773 1 1 0 0 0 0
+ConeheadZombie 3525 1 1 0
+200 200 20 1915 1 1 0 0 0 0
+ConeheadZombie 3545 1 1 0
+200 200 18 1783 1 1 0 0 0 0
+ConeheadZombie 3535 1 1 0
+200 200 18 1781 1 1 0 0 0 0
+ConeheadZombie 3545 1 1 0
+200 200 19 1925 1 1 0 0 0 0
+ConeheadZombie 3545 1 1 0
+200 200 19 1919 1 1 0 0 0 0
+ConeheadZombie 3565 1 1 0
+200 200 18 1929 1 1 0 0 0 0
+ConeheadZombie 3575 1 1 0
+200 200 17 1939 1 1 0 0 0 0
+ConeheadZombie 3575 1 1 0
+200 200 17 1933 1 1 0 0 0 0
+ConeheadZombie 3595 1 1 0
+200 200 16 1943 1 1 0 0 0 0
+ConeheadZombie 3615 1 1 0
+200 200 15 1953 1 1 0 0 0 0
+ConeheadZombie 3615 1 1 0
+200 200 15 1947 1 1 0 0 0 0
+ConeheadZombie 3645 1 1 0
+200 200 14 1957 1 1 0 0 0 0
+ConeheadZombie 3665 1 1 0
+200 200 13 1967 1 1 0 0 0 0
+ConeheadZombie 3665 1 1 0
+200 200 13 1961 1 1 0 0 0 0
+ConeheadZombie 3685 1 1 0
+200 200 12 1971 1 1 0 0 0 0
+ConeheadZombie 3705 1 1 0
+200 200 8 1853 1 1 0 0 0 0
+ConeheadZombie 3705 1 1 0
+200 200 8 1851 1 1 0 0 0 0
+ConeheadZombie 3705 1 1 0
+200 200 7 1857 1 1 0 0 0 0
+ConeheadZombie 3705 1 1 0
+200 200 7 1861 1 1 0 0 0 0
+ConeheadZombie 3715 1 1 0
+200 200 11 1975 1 1 0 0 0 0
+ConeheadZombie 3725 1 1 0
+200 200 6 1867 1 1 0 0 0 0
+ConeheadZombie 3725 1 1 0
+200 200 6 1865 1 1 0 0 0 0
+ConeheadZombie 3745 1 1 0
+200 200 5 1871 1 1 0 0 0 0
+ConeheadZombie 3745 1 1 0
+200 200 5 1875 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 4 1879 1 1 0 0 0 0
+ConeheadZombie 3765 1 1 0
+200 200 4 1881 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 3 1889 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 3 1885 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 2 1893 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 2 1895 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 1 1903 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 1 1899 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 0 1907 1 1 0 0 0 0
+ConeheadZombie 3775 1 1 0
+200 200 0 1909 1 1 0 0 0 0
+ConeheadZombie 3785 1 1 0
+200 200 20 1917 1 1 0 0 0 0
+ConeheadZombie 3795 1 1 0
+200 200 20 1913 1 1 0 0 0 0
+ConeheadZombie 3815 1 1 0
+200 200 19 1921 1 1 0 0 0 0
+ConeheadZombie 3815 1 1 0
+200 200 19 1923 1 1 0 0 0 0
+ConeheadZombie 3845 1 1 0
+200 200 18 1927 1 1 0 0 0 0
+ConeheadZombie 3835 1 1 0
+200 200 18 1931 1 1 0 0 0 0
+ConeheadZombie 3845 1 1 0
+200 200 17 1937 1 1 0 0 0 0
+ConeheadZombie 3845 1 1 0
+200 200 17 1935 1 1 0 0 0 0
+ConeheadZombie 3855 1 1 0
+200 200 16 1941 1 1 0 0 0 0
+ConeheadZombie 3865 1 1 0
+200 200 16 1945 1 1 0 0 0 0
+ConeheadZombie 3885 1 1 0
+200 200 15 1951 1 1 0 0 0 0
+ConeheadZombie 3885 1 1 0
+200 200 15 1949 1 1 0 0 0 0
+ConeheadZombie 3905 1 1 0
+200 200 14 1955 1 1 0 0 0 0
+ConeheadZombie 3905 1 1 0
+200 200 14 1959 1 1 0 0 0 0
+ConeheadZombie 3925 1 1 0
+200 200 13 1965 1 1 0 0 0 0
+ConeheadZombie 3935 1 1 0
+200 200 13 1963 1 1 0 0 0 0
+ConeheadZombie 3955 1 1 0
+200 200 12 1969 1 1 0 0 0 0
+ConeheadZombie 3955 1 1 0
+200 200 12 1973 1 1 0 0 0 0
+ConeheadZombie 3975 1 1 0
+200 200 11 1979 1 1 0 0 0 0
+ConeheadZombie 4115 1 1 0
+200 200 4 2177 1 1 0 0 0 0
+ConeheadZombie 4115 1 1 0
+200 200 4 2171 1 1 0 0 0 0
+ConeheadZombie 4125 1 1 0
+200 200 3 2181 1 1 0 0 0 0
+ConeheadZombie 4125 1 1 0
+200 200 2 2191 1 1 0 0 0 0
+ConeheadZombie 4125 1 1 0
+200 200 2 2185 1 1 0 0 0 0
+ConeheadZombie 4125 1 1 0
+200 200 1 2195 1 1 0 0 0 0
+ConeheadZombie 4125 1 1 0
+200 200 0 2205 1 1 0 0 0 0
+ConeheadZombie 4125 1 1 0
+200 200 0 2199 1 1 0 0 0 0
+ConeheadZombie 4145 1 1 0
+200 200 20 2209 1 1 0 0 0 0
+ConeheadZombie 4165 1 1 0
+200 200 19 2219 1 1 0 0 0 0
+ConeheadZombie 4165 1 1 0
+200 200 19 2213 1 1 0 0 0 0
+ConeheadZombie 4185 1 1 0
+200 200 18 2223 1 1 0 0 0 0
+ConeheadZombie 4195 1 1 0
+200 200 17 2233 1 1 0 0 0 0
+ConeheadZombie 4195 1 1 0
+200 200 17 2227 1 1 0 0 0 0
+ConeheadZombie 4215 1 1 0
+200 200 16 2237 1 1 0 0 0 0
+ConeheadZombie 4235 1 1 0
+200 200 15 2247 1 1 0 0 0 0
+ConeheadZombie 4235 1 1 0
+200 200 15 2241 1 1 0 0 0 0
+ConeheadZombie 4265 1 1 0
+200 200 14 2251 1 1 0 0 0 0
+ConeheadZombie 4285 1 1 0
+200 200 13 2261 1 1 0 0 0 0
+ConeheadZombie 4285 1 1 0
+200 200 13 2255 1 1 0 0 0 0
+ConeheadZombie 4305 1 1 0
+200 200 12 2265 1 1 0 0 0 0
+ConeheadZombie 4335 1 1 0
+200 200 11 2275 1 1 0 0 0 0
+ConeheadZombie 4335 1 1 0
+200 200 11 2269 1 1 0 0 0 0
+ConeheadZombie 4345 1 1 0
+200 200 5 2169 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 4 2173 1 1 0 0 0 0
+ConeheadZombie 4365 1 1 0
+200 200 4 2175 1 1 0 0 0 0
+ConeheadZombie 4355 1 1 0
+200 200 10 2279 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 3 2183 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 3 2179 1 1 0 0 0 0
+ConeheadZombie 4365 1 1 0
+200 200 9 2289 1 1 0 0 0 0
+ConeheadZombie 4365 1 1 0
+200 200 9 2283 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 2 2187 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 2 2189 1 1 0 0 0 0
+ConeheadZombie 4365 1 1 0
+200 200 8 2293 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 1 2197 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 1 2193 1 1 0 0 0 0
+ConeheadZombie 4365 1 1 0
+200 200 7 2303 1 1 0 0 0 0
+ConeheadZombie 4365 1 1 0
+200 200 7 2297 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 0 2201 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 0 2203 1 1 0 0 0 0
+ConeheadZombie 4375 1 1 0
+200 200 6 2307 1 1 0 0 0 0
+ConeheadZombie 4385 1 1 0
+200 200 20 2211 1 1 0 0 0 0
+ConeheadZombie 4395 1 1 0
+200 200 20 2207 1 1 0 0 0 0
+ConeheadZombie 4405 1 1 0
+200 200 5 2317 1 1 0 0 0 0
+ConeheadZombie 4405 1 1 0
+200 200 5 2311 1 1 0 0 0 0
+ConeheadZombie 4415 1 1 0
+200 200 19 2215 1 1 0 0 0 0
+ConeheadZombie 4415 1 1 0
+200 200 19 2217 1 1 0 0 0 0
+ConeheadZombie 4425 1 1 0
+200 200 4 2321 1 1 0 0 0 0
+ConeheadZombie 4435 1 1 0
+200 200 3 2331 1 1 0 0 0 0
+ConeheadZombie 4435 1 1 0
+200 200 3 2325 1 1 0 0 0 0
+ConeheadZombie 4435 1 1 0
+200 200 2 2335 1 1 0 0 0 0
+ConeheadZombie 4435 1 1 0
+200 200 1 2345 1 1 0 0 0 0
+ConeheadZombie 4435 1 1 0
+200 200 1 2339 1 1 0 0 0 0
+ConeheadZombie 4445 1 1 0
+200 200 18 2221 1 1 0 0 0 0
+ConeheadZombie 4435 1 1 0
+200 200 18 2225 1 1 0 0 0 0
+ConeheadZombie 4435 1 1 0
+200 200 0 2349 1 1 0 0 0 0
+ConeheadZombie 4445 1 1 0
+200 200 17 2231 1 1 0 0 0 0
+ConeheadZombie 4445 1 1 0
+200 200 17 2229 1 1 0 0 0 0
+ConeheadZombie 4455 1 1 0
+200 200 20 2359 1 1 0 0 0 0
+ConeheadZombie 4455 1 1 0
+200 200 20 2353 1 1 0 0 0 0
+ConeheadZombie 4455 1 1 0
+200 200 16 2235 1 1 0 0 0 0
+ConeheadZombie 4465 1 1 0
+200 200 16 2239 1 1 0 0 0 0
+ConeheadZombie 4475 1 1 0
+200 200 19 2363 1 1 0 0 0 0
+ConeheadZombie 4485 1 1 0
+200 200 15 2245 1 1 0 0 0 0
+ConeheadZombie 4485 1 1 0
+200 200 15 2243 1 1 0 0 0 0
+ConeheadZombie 4495 1 1 0
+200 200 18 2373 1 1 0 0 0 0
+ConeheadZombie 4495 1 1 0
+200 200 18 2367 1 1 0 0 0 0
+ConeheadZombie 4505 1 1 0
+200 200 17 2377 1 1 0 0 0 0
+ConeheadZombie 4505 1 1 0
+200 200 14 2249 1 1 0 0 0 0
+ConeheadZombie 4505 1 1 0
+200 200 14 2253 1 1 0 0 0 0
+ConeheadZombie 4525 1 1 0
+200 200 16 2387 1 1 0 0 0 0
+ConeheadZombie 4525 1 1 0
+200 200 16 2381 1 1 0 0 0 0
+ConeheadZombie 4525 1 1 0
+200 200 13 2259 1 1 0 0 0 0
+ConeheadZombie 4535 1 1 0
+200 200 13 2257 1 1 0 0 0 0
+ConeheadZombie 4545 1 1 0
+200 200 15 2391 1 1 0 0 0 0
+ConeheadZombie 4555 1 1 0
+200 200 12 2263 1 1 0 0 0 0
+ConeheadZombie 4555 1 1 0
+200 200 12 2267 1 1 0 0 0 0
+ConeheadZombie 4575 1 1 0
+200 200 14 2401 1 1 0 0 0 0
+ConeheadZombie 4575 1 1 0
+200 200 14 2395 1 1 0 0 0 0
+ConeheadZombie 4575 1 1 0
+200 200 11 2273 1 1 0 0 0 0
+ConeheadZombie 4575 1 1 0
+200 200 11 2271 1 1 0 0 0 0
+ConeheadZombie 4595 1 1 0
+200 200 13 2405 1 1 0 0 0 0
+ConeheadZombie 4595 1 1 0
+200 200 10 2277 1 1 0 0 0 0
+ConeheadZombie 4605 1 1 0
+200 200 10 2281 1 1 0 0 0 0
+ConeheadZombie 4605 1 1 0
+200 200 9 2287 1 1 0 0 0 0
+ConeheadZombie 4605 1 1 0
+200 200 9 2285 1 1 0 0 0 0
+ConeheadZombie 4605 1 1 0
+200 200 8 2291 1 1 0 0 0 0
+ConeheadZombie 4605 1 1 0
+200 200 8 2295 1 1 0 0 0 0
+ConeheadZombie 4605 1 1 0
+200 200 7 2301 1 1 0 0 0 0
+ConeheadZombie 4605 1 1 0
+200 200 7 2299 1 1 0 0 0 0
+ConeheadZombie 4615 1 1 0
+200 200 12 2415 1 1 0 0 0 0
+ConeheadZombie 4615 1 1 0
+200 200 12 2409 1 1 0 0 0 0
+ConeheadZombie 4625 1 1 0
+200 200 6 2305 1 1 0 0 0 0
+ConeheadZombie 4625 1 1 0
+200 200 6 2309 1 1 0 0 0 0
+ConeheadZombie 4645 1 1 0
+200 200 11 2419 1 1 0 0 0 0
+ConeheadZombie 4645 1 1 0
+200 200 5 2315 1 1 0 0 0 0
+ConeheadZombie 4645 1 1 0
+200 200 5 2313 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 4 2323 1 1 0 0 0 0
+ConeheadZombie 4665 1 1 0
+200 200 4 2319 1 1 0 0 0 0
+ConeheadZombie 4665 1 1 0
+200 200 10 2423 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 3 2327 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 3 2329 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 2 2337 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 2 2333 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 1 2341 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 1 2343 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 0 2351 1 1 0 0 0 0
+ConeheadZombie 4675 1 1 0
+200 200 0 2347 1 1 0 0 0 0
+ConeheadZombie 4685 1 1 0
+200 200 20 2355 1 1 0 0 0 0
+ConeheadZombie 4695 1 1 0
+200 200 20 2357 1 1 0 0 0 0
+ConeheadZombie 4715 1 1 0
+200 200 19 2365 1 1 0 0 0 0
+ConeheadZombie 4715 1 1 0
+200 200 19 2361 1 1 0 0 0 0
+ConeheadZombie 4745 1 1 0
+200 200 18 2371 1 1 0 0 0 0
+ConeheadZombie 4735 1 1 0
+200 200 18 2369 1 1 0 0 0 0
+ConeheadZombie 4745 1 1 0
+200 200 17 2375 1 1 0 0 0 0
+ConeheadZombie 4745 1 1 0
+200 200 17 2379 1 1 0 0 0 0
+ConeheadZombie 4755 1 1 0
+200 200 16 2385 1 1 0 0 0 0
+ConeheadZombie 4765 1 1 0
+200 200 16 2383 1 1 0 0 0 0
+ConeheadZombie 4785 1 1 0
+200 200 15 2389 1 1 0 0 0 0
+ConeheadZombie 4785 1 1 0
+200 200 15 2393 1 1 0 0 0 0
+ConeheadZombie 4805 1 1 0
+200 200 14 2399 1 1 0 0 0 0
+ConeheadZombie 4805 1 1 0
+200 200 14 2397 1 1 0 0 0 0
+ConeheadZombie 4825 1 1 0
+200 200 13 2403 1 1 0 0 0 0
+ConeheadZombie 4835 1 1 0
+200 200 13 2407 1 1 0 0 0 0
+ConeheadZombie 4855 1 1 0
+200 200 12 2413 1 1 0 0 0 0
+ConeheadZombie 4855 1 1 0
+200 200 12 2411 1 1 0 0 0 0
+ConeheadZombie 4875 1 1 0
+200 200 11 2417 1 1 0 0 0 0
+ConeheadZombie 4875 1 1 0
+200 200 11 2421 1 1 0 0 0 0
+RegularZombie 4925 1 1 0
+100 100 5 2105 1 1 0 0 0 0
+RegularZombie 4945 1 1 0
+100 100 4 2115 1 1 0 0 0 0
+RegularZombie 4945 1 1 0
+100 100 4 2109 1 1 0 0 0 0
+RegularZombie 4955 1 1 0
+100 100 4 2113 1 1 0 0 0 0
+RegularZombie 4955 1 1 0
+100 100 4 2107 1 1 0 0 0 0
+RegularZombie 4955 1 1 0
+100 100 4 2111 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 3 2121 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 3 2119 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 3 2123 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 3 2117 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 2 2133 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 2 2127 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 2 2131 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 2 2125 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 2 2129 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 1 2139 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 1 2137 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 1 2141 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 1 2135 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 0 2151 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 0 2145 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 0 2149 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 0 2143 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 0 2147 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 17 2157 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 17 2155 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 17 2159 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 17 2153 1 1 0 0 0 0
+RegularZombie 4975 1 1 0
+100 100 16 2163 1 1 0 0 0 0
+RegularZombie 4985 1 1 0
+100 100 16 2167 1 1 0 0 0 0
+RegularZombie 4985 1 1 0
+100 100 16 2161 1 1 0 0 0 0
+RegularZombie 4985 1 1 0
+100 100 16 2165 1 1 0 0 0 0
+RegularZombie 9175 1 1 0
+100 100 0 4412 1 1 0 0 0 0
+ContentEnd
+ZombiePool 2
+ConeheadZombie 2215 2 2 0
+200 200 2 783 1 1 0 0 0 0
+ConeheadZombie 2215 2 2 0
+200 200 2 795 1 1 0 0 0 0
+ConeheadZombie 2205 2 2 0
+200 200 20 789 1 1 0 0 0 0
+ConeheadZombie 2235 2 2 0
+200 200 14 787 1 1 0 0 0 0
+ConeheadZombie 2235 2 2 0
+200 200 14 793 1 1 0 0 0 0
+ConeheadZombie 2255 2 2 0
+200 200 14 791 1 1 0 0 0 0
+ConeheadZombie 2255 2 2 0
+200 200 14 785 1 1 0 0 0 0
+ConeheadZombie 2925 2 2 0
+200 200 19 1631 1 1 0 0 0 0
+ConeheadZombie 2945 2 2 0
+200 200 18 1635 1 1 0 0 0 0
+ConeheadZombie 2955 2 2 0
+200 200 17 1645 1 1 0 0 0 0
+ConeheadZombie 2955 2 2 0
+200 200 17 1639 1 1 0 0 0 0
+ConeheadZombie 2975 2 2 0
+200 200 16 1649 1 1 0 0 0 0
+ConeheadZombie 2995 2 2 0
+200 200 15 1659 1 1 0 0 0 0
+ConeheadZombie 2995 2 2 0
+200 200 15 1653 1 1 0 0 0 0
+ConeheadZombie 3025 2 2 0
+200 200 14 1663 1 1 0 0 0 0
+ConeheadZombie 3045 2 2 0
+200 200 13 1673 1 1 0 0 0 0
+ConeheadZombie 3045 2 2 0
+200 200 13 1667 1 1 0 0 0 0
+ConeheadZombie 3065 2 2 0
+200 200 12 1677 1 1 0 0 0 0
+ConeheadZombie 3095 2 2 0
+200 200 11 1687 1 1 0 0 0 0
+ConeheadZombie 3095 2 2 0
+200 200 11 1681 1 1 0 0 0 0
+ConeheadZombie 3115 2 2 0
+200 200 10 1691 1 1 0 0 0 0
+ConeheadZombie 3125 2 2 0
+200 200 9 1701 1 1 0 0 0 0
+ConeheadZombie 3125 2 2 0
+200 200 9 1695 1 1 0 0 0 0
+ConeheadZombie 3125 2 2 0
+200 200 8 1705 1 1 0 0 0 0
+ConeheadZombie 3125 2 2 0
+200 200 7 1715 1 1 0 0 0 0
+ConeheadZombie 3125 2 2 0
+200 200 7 1709 1 1 0 0 0 0
+ConeheadZombie 3135 2 2 0
+200 200 6 1719 1 1 0 0 0 0
+ConeheadZombie 3165 2 2 0
+200 200 5 1729 1 1 0 0 0 0
+ConeheadZombie 3165 2 2 0
+200 200 5 1723 1 1 0 0 0 0
+ConeheadZombie 3185 2 2 0
+200 200 4 1733 1 1 0 0 0 0
+ConeheadZombie 3195 2 2 0
+200 200 3 1743 1 1 0 0 0 0
+ConeheadZombie 3195 2 2 0
+200 200 3 1737 1 1 0 0 0 0
+ConeheadZombie 3195 2 2 0
+200 200 2 1747 1 1 0 0 0 0
+ConeheadZombie 3195 2 2 0
+200 200 1 1757 1 1 0 0 0 0
+ConeheadZombie 3195 2 2 0
+200 200 1 1751 1 1 0 0 0 0
+ConeheadZombie 3195 2 2 0
+200 200 0 1761 1 1 0 0 0 0
+ConeheadZombie 3215 2 2 0
+200 200 20 1771 1 1 0 0 0 0
+ConeheadZombie 3215 2 2 0
+200 200 20 1765 1 1 0 0 0 0
+ConeheadZombie 3215 2 2 0
+200 200 19 1629 1 1 0 0 0 0
+ConeheadZombie 3245 2 2 0
+200 200 18 1633 1 1 0 0 0 0
+ConeheadZombie 3235 2 2 0
+200 200 18 1637 1 1 0 0 0 0
+ConeheadZombie 3235 2 2 0
+200 200 19 1775 1 1 0 0 0 0
+ConeheadZombie 3245 2 2 0
+200 200 17 1643 1 1 0 0 0 0
+ConeheadZombie 3245 2 2 0
+200 200 17 1641 1 1 0 0 0 0
+ConeheadZombie 3255 2 2 0
+200 200 18 1779 1 1 0 0 0 0
+ConeheadZombie 3255 2 2 0
+200 200 16 1647 1 1 0 0 0 0
+ConeheadZombie 3265 2 2 0
+200 200 16 1651 1 1 0 0 0 0
+ConeheadZombie 3285 2 2 0
+200 200 15 1657 1 1 0 0 0 0
+ConeheadZombie 3285 2 2 0
+200 200 15 1655 1 1 0 0 0 0
+ConeheadZombie 3305 2 2 0
+200 200 14 1661 1 1 0 0 0 0
+ConeheadZombie 3305 2 2 0
+200 200 14 1665 1 1 0 0 0 0
+ConeheadZombie 3325 2 2 0
+200 200 13 1671 1 1 0 0 0 0
+ConeheadZombie 3335 2 2 0
+200 200 13 1669 1 1 0 0 0 0
+ConeheadZombie 3355 2 2 0
+200 200 12 1675 1 1 0 0 0 0
+ConeheadZombie 3355 2 2 0
+200 200 12 1679 1 1 0 0 0 0
+ConeheadZombie 3375 2 2 0
+200 200 11 1685 1 1 0 0 0 0
+ConeheadZombie 3375 2 2 0
+200 200 11 1683 1 1 0 0 0 0
+ConeheadZombie 3395 2 2 0
+200 200 10 1689 1 1 0 0 0 0
+ConeheadZombie 3405 2 2 0
+200 200 10 1693 1 1 0 0 0 0
+ConeheadZombie 3405 2 2 0
+200 200 9 1699 1 1 0 0 0 0
+ConeheadZombie 3405 2 2 0
+200 200 9 1697 1 1 0 0 0 0
+ConeheadZombie 3405 2 2 0
+200 200 8 1703 1 1 0 0 0 0
+ConeheadZombie 3405 2 2 0
+200 200 8 1707 1 1 0 0 0 0
+ConeheadZombie 3405 2 2 0
+200 200 7 1713 1 1 0 0 0 0
+ConeheadZombie 3405 2 2 0
+200 200 7 1711 1 1 0 0 0 0
+ConeheadZombie 3425 2 2 0
+200 200 6 1717 1 1 0 0 0 0
+ConeheadZombie 3425 2 2 0
+200 200 6 1721 1 1 0 0 0 0
+ConeheadZombie 3445 2 2 0
+200 200 5 1727 1 1 0 0 0 0
+ConeheadZombie 3445 2 2 0
+200 200 5 1725 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 4 1735 1 1 0 0 0 0
+ConeheadZombie 3465 2 2 0
+200 200 4 1731 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 3 1739 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 3 1741 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 2 1749 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 2 1745 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 1 1753 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 1 1755 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 0 1763 1 1 0 0 0 0
+ConeheadZombie 3475 2 2 0
+200 200 0 1759 1 1 0 0 0 0
+ConeheadZombie 3485 2 2 0
+200 200 20 1767 1 1 0 0 0 0
+ConeheadZombie 3495 2 2 0
+200 200 20 1769 1 1 0 0 0 0
+ConeheadZombie 3515 2 2 0
+200 200 19 1777 1 1 0 0 0 0
+ConeheadZombie 3515 2 2 0
+200 200 19 1773 1 1 0 0 0 0
+ConeheadZombie 3545 2 2 0
+200 200 18 1783 1 1 0 0 0 0
+ConeheadZombie 3535 2 2 0
+200 200 18 1781 1 1 0 0 0 0
+RegularZombie 3535 2 2 0
+100 100 14 1377 1 1 0 0 0 0
+RegularZombie 3545 2 2 0
+100 100 14 1375 1 1 0 0 0 0
+RegularZombie 3545 2 2 0
+100 100 14 1373 1 1 0 0 0 0
+RegularZombie 3565 2 2 0
+100 100 13 1383 1 1 0 0 0 0
+RegularZombie 3575 2 2 0
+100 100 13 1381 1 1 0 0 0 0
+RegularZombie 3575 2 2 0
+100 100 13 1385 1 1 0 0 0 0
+RegularZombie 3575 2 2 0
+100 100 13 1379 1 1 0 0 0 0
+RegularZombie 3595 2 2 0
+100 100 12 1395 1 1 0 0 0 0
+RegularZombie 3595 2 2 0
+100 100 12 1389 1 1 0 0 0 0
+RegularZombie 3605 2 2 0
+100 100 12 1393 1 1 0 0 0 0
+RegularZombie 3605 2 2 0
+100 100 12 1387 1 1 0 0 0 0
+RegularZombie 3605 2 2 0
+100 100 12 1391 1 1 0 0 0 0
+RegularZombie 3625 2 2 0
+100 100 11 1401 1 1 0 0 0 0
+RegularZombie 3635 2 2 0
+100 100 11 1399 1 1 0 0 0 0
+RegularZombie 3635 2 2 0
+100 100 11 1403 1 1 0 0 0 0
+RegularZombie 3635 2 2 0
+100 100 11 1397 1 1 0 0 0 0
+RegularZombie 3655 2 2 0
+100 100 10 1413 1 1 0 0 0 0
+RegularZombie 3655 2 2 0
+100 100 10 1407 1 1 0 0 0 0
+RegularZombie 3665 2 2 0
+100 100 10 1411 1 1 0 0 0 0
+RegularZombie 3665 2 2 0
+100 100 10 1405 1 1 0 0 0 0
+RegularZombie 3665 2 2 0
+100 100 10 1409 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 9 1419 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 9 1417 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 9 1421 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 9 1415 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 8 1431 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 8 1425 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 8 1429 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 8 1423 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 8 1427 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 7 1437 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 7 1435 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 7 1439 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 7 1433 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 6 1449 1 1 0 0 0 0
+RegularZombie 3685 2 2 0
+100 100 6 1443 1 1 0 0 0 0
+RegularZombie 3695 2 2 0
+100 100 6 1447 1 1 0 0 0 0
+RegularZombie 3695 2 2 0
+100 100 6 1441 1 1 0 0 0 0
+RegularZombie 3695 2 2 0
+100 100 6 1445 1 1 0 0 0 0
+ConeheadZombie 3715 2 2 0
+200 200 11 1981 1 1 0 0 0 0
+RegularZombie 3715 2 2 0
+100 100 5 1455 1 1 0 0 0 0
+RegularZombie 3725 2 2 0
+100 100 5 1453 1 1 0 0 0 0
+RegularZombie 3725 2 2 0
+100 100 5 1457 1 1 0 0 0 0
+RegularZombie 3725 2 2 0
+100 100 5 1451 1 1 0 0 0 0
+ConeheadZombie 3735 2 2 0
+200 200 10 1985 1 1 0 0 0 0
+ConeheadZombie 3745 2 2 0
+200 200 9 1995 1 1 0 0 0 0
+ConeheadZombie 3745 2 2 0
+200 200 9 1989 1 1 0 0 0 0
+ConeheadZombie 3745 2 2 0
+200 200 8 1999 1 1 0 0 0 0
+ConeheadZombie 3745 2 2 0
+200 200 7 2009 1 1 0 0 0 0
+ConeheadZombie 3745 2 2 0
+200 200 7 2003 1 1 0 0 0 0
+RegularZombie 3745 2 2 0
+100 100 4 1467 1 1 0 0 0 0
+RegularZombie 3745 2 2 0
+100 100 4 1461 1 1 0 0 0 0
+RegularZombie 3755 2 2 0
+100 100 4 1465 1 1 0 0 0 0
+RegularZombie 3755 2 2 0
+100 100 4 1459 1 1 0 0 0 0
+RegularZombie 3755 2 2 0
+100 100 4 1463 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 3 1473 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 3 1471 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 3 1475 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 3 1469 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 2 1485 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 2 1479 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 2 1483 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 2 1477 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 2 1481 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 1 1491 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 1 1489 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 1 1493 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 1 1487 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 0 1497 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 0 1495 1 1 0 0 0 0
+RegularZombie 3775 2 2 0
+100 100 0 1499 1 1 0 0 0 0
+ConeheadZombie 3755 2 2 0
+200 200 6 2013 1 1 0 0 0 0
+ConeheadZombie 3785 2 2 0
+200 200 5 2023 1 1 0 0 0 0
+ConeheadZombie 3785 2 2 0
+200 200 5 2017 1 1 0 0 0 0
+ConeheadZombie 3805 2 2 0
+200 200 4 2027 1 1 0 0 0 0
+ConeheadZombie 3815 2 2 0
+200 200 3 2037 1 1 0 0 0 0
+ConeheadZombie 3815 2 2 0
+200 200 3 2031 1 1 0 0 0 0
+ConeheadZombie 3815 2 2 0
+200 200 2 2041 1 1 0 0 0 0
+ConeheadZombie 3815 2 2 0
+200 200 1 2051 1 1 0 0 0 0
+ConeheadZombie 3815 2 2 0
+200 200 1 2045 1 1 0 0 0 0
+ConeheadZombie 3815 2 2 0
+200 200 0 2055 1 1 0 0 0 0
+ConeheadZombie 3835 2 2 0
+200 200 20 2065 1 1 0 0 0 0
+ConeheadZombie 3835 2 2 0
+200 200 20 2059 1 1 0 0 0 0
+ConeheadZombie 3855 2 2 0
+200 200 19 2069 1 1 0 0 0 0
+ConeheadZombie 3875 2 2 0
+200 200 18 2079 1 1 0 0 0 0
+ConeheadZombie 3875 2 2 0
+200 200 18 2073 1 1 0 0 0 0
+ConeheadZombie 3885 2 2 0
+200 200 17 2083 1 1 0 0 0 0
+ConeheadZombie 3905 2 2 0
+200 200 16 2093 1 1 0 0 0 0
+ConeheadZombie 3905 2 2 0
+200 200 16 2087 1 1 0 0 0 0
+ConeheadZombie 3925 2 2 0
+200 200 15 2097 1 1 0 0 0 0
+ConeheadZombie 3955 2 2 0
+200 200 14 2101 1 1 0 0 0 0
+ConeheadZombie 3975 2 2 0
+200 200 11 1977 1 1 0 0 0 0
+ConeheadZombie 3995 2 2 0
+200 200 10 1983 1 1 0 0 0 0
+ConeheadZombie 4005 2 2 0
+200 200 10 1987 1 1 0 0 0 0
+ConeheadZombie 4005 2 2 0
+200 200 9 1993 1 1 0 0 0 0
+ConeheadZombie 4005 2 2 0
+200 200 9 1991 1 1 0 0 0 0
+ConeheadZombie 4005 2 2 0
+200 200 8 1997 1 1 0 0 0 0
+ConeheadZombie 4005 2 2 0
+200 200 8 2001 1 1 0 0 0 0
+ConeheadZombie 4005 2 2 0
+200 200 7 2007 1 1 0 0 0 0
+ConeheadZombie 4005 2 2 0
+200 200 7 2005 1 1 0 0 0 0
+ConeheadZombie 4025 2 2 0
+200 200 6 2011 1 1 0 0 0 0
+ConeheadZombie 4025 2 2 0
+200 200 6 2015 1 1 0 0 0 0
+ConeheadZombie 4045 2 2 0
+200 200 5 2021 1 1 0 0 0 0
+ConeheadZombie 4045 2 2 0
+200 200 5 2019 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 4 2029 1 1 0 0 0 0
+ConeheadZombie 4065 2 2 0
+200 200 4 2025 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 3 2033 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 3 2035 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 2 2043 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 2 2039 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 1 2047 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 1 2049 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 0 2057 1 1 0 0 0 0
+ConeheadZombie 4075 2 2 0
+200 200 0 2053 1 1 0 0 0 0
+ConeheadZombie 4085 2 2 0
+200 200 20 2061 1 1 0 0 0 0
+ConeheadZombie 4095 2 2 0
+200 200 20 2063 1 1 0 0 0 0
+ConeheadZombie 4115 2 2 0
+200 200 19 2071 1 1 0 0 0 0
+ConeheadZombie 4115 2 2 0
+200 200 19 2067 1 1 0 0 0 0
+ConeheadZombie 4145 2 2 0
+200 200 18 2077 1 1 0 0 0 0
+ConeheadZombie 4135 2 2 0
+200 200 18 2075 1 1 0 0 0 0
+ConeheadZombie 4145 2 2 0
+200 200 17 2081 1 1 0 0 0 0
+ConeheadZombie 4145 2 2 0
+200 200 17 2085 1 1 0 0 0 0
+ConeheadZombie 4155 2 2 0
+200 200 16 2091 1 1 0 0 0 0
+ConeheadZombie 4165 2 2 0
+200 200 16 2089 1 1 0 0 0 0
+ConeheadZombie 4185 2 2 0
+200 200 15 2095 1 1 0 0 0 0
+ConeheadZombie 4185 2 2 0
+200 200 15 2099 1 1 0 0 0 0
+ConeheadZombie 4205 2 2 0
+200 200 14 2103 1 1 0 0 0 0
+RegularZombie 4345 2 2 0
+100 100 4 1791 1 1 0 0 0 0
+RegularZombie 4345 2 2 0
+100 100 4 1785 1 1 0 0 0 0
+RegularZombie 4355 2 2 0
+100 100 4 1789 1 1 0 0 0 0
+RegularZombie 4355 2 2 0
+100 100 4 1787 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 3 1797 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 3 1795 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 3 1799 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 3 1793 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 2 1809 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 2 1803 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 2 1807 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 2 1801 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 2 1805 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 1 1815 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 1 1813 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 1 1817 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 1 1811 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 0 1827 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 0 1821 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 0 1825 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 0 1819 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 0 1823 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 17 1833 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 17 1831 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 17 1835 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 17 1829 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 16 1845 1 1 0 0 0 0
+RegularZombie 4375 2 2 0
+100 100 16 1839 1 1 0 0 0 0
+RegularZombie 4385 2 2 0
+100 100 16 1843 1 1 0 0 0 0
+RegularZombie 4385 2 2 0
+100 100 16 1837 1 1 0 0 0 0
+RegularZombie 4385 2 2 0
+100 100 16 1841 1 1 0 0 0 0
+RegularZombie 4415 2 2 0
+100 100 15 1847 1 1 0 0 0 0
+ConeheadZombie 4665 2 2 0
+200 200 10 2429 1 1 0 0 0 0
+RegularZombie 4675 2 2 0
+100 100 1 1979 1 1 0 0 0 0
+ConeheadZombie 4675 2 2 0
+200 200 9 2433 1 1 0 0 0 0
+ConeheadZombie 4675 2 2 0
+200 200 8 2443 1 1 0 0 0 0
+ConeheadZombie 4675 2 2 0
+200 200 8 2437 1 1 0 0 0 0
+ConeheadZombie 4675 2 2 0
+200 200 7 2447 1 1 0 0 0 0
+ConeheadZombie 4685 2 2 0
+200 200 6 2457 1 1 0 0 0 0
+ConeheadZombie 4685 2 2 0
+200 200 6 2451 1 1 0 0 0 0
+ConeheadZombie 4715 2 2 0
+200 200 5 2461 1 1 0 0 0 0
+ConeheadZombie 4735 2 2 0
+200 200 4 2471 1 1 0 0 0 0
+ConeheadZombie 4735 2 2 0
+200 200 4 2465 1 1 0 0 0 0
+ConeheadZombie 4745 2 2 0
+200 200 3 2475 1 1 0 0 0 0
+ConeheadZombie 4745 2 2 0
+200 200 2 2485 1 1 0 0 0 0
+ConeheadZombie 4745 2 2 0
+200 200 2 2479 1 1 0 0 0 0
+RegularZombie 4795 2 2 0
+100 100 12 2043 1 1 0 0 0 0
+RegularZombie 4805 2 2 0
+100 100 12 2041 1 1 0 0 0 0
+RegularZombie 4825 2 2 0
+100 100 11 2049 1 1 0 0 0 0
+RegularZombie 4835 2 2 0
+100 100 11 2047 1 1 0 0 0 0
+RegularZombie 4835 2 2 0
+100 100 11 2051 1 1 0 0 0 0
+RegularZombie 4835 2 2 0
+100 100 11 2045 1 1 0 0 0 0
+RegularZombie 4855 2 2 0
+100 100 10 2061 1 1 0 0 0 0
+RegularZombie 4855 2 2 0
+100 100 10 2055 1 1 0 0 0 0
+RegularZombie 4865 2 2 0
+100 100 10 2059 1 1 0 0 0 0
+RegularZombie 4865 2 2 0
+100 100 10 2053 1 1 0 0 0 0
+RegularZombie 4865 2 2 0
+100 100 10 2057 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 9 2067 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 9 2065 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 9 2069 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 9 2063 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 8 2079 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 8 2073 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 8 2077 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 8 2071 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 8 2075 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 7 2085 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 7 2083 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 7 2087 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 7 2081 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 6 2097 1 1 0 0 0 0
+RegularZombie 4885 2 2 0
+100 100 6 2091 1 1 0 0 0 0
+RegularZombie 4895 2 2 0
+100 100 6 2095 1 1 0 0 0 0
+RegularZombie 4895 2 2 0
+100 100 6 2089 1 1 0 0 0 0
+RegularZombie 4895 2 2 0
+100 100 6 2093 1 1 0 0 0 0
+ConeheadZombie 4895 2 2 0
+200 200 10 2427 1 1 0 0 0 0
+ConeheadZombie 4905 2 2 0
+200 200 10 2425 1 1 0 0 0 0
+ConeheadZombie 4905 2 2 0
+200 200 9 2431 1 1 0 0 0 0
+ConeheadZombie 4905 2 2 0
+200 200 9 2435 1 1 0 0 0 0
+ConeheadZombie 4905 2 2 0
+200 200 8 2441 1 1 0 0 0 0
+ConeheadZombie 4905 2 2 0
+200 200 8 2439 1 1 0 0 0 0
+ConeheadZombie 4905 2 2 0
+200 200 7 2445 1 1 0 0 0 0
+ConeheadZombie 4905 2 2 0
+200 200 7 2449 1 1 0 0 0 0
+RegularZombie 4915 2 2 0
+100 100 5 2103 1 1 0 0 0 0
+RegularZombie 4925 2 2 0
+100 100 5 2101 1 1 0 0 0 0
+ConeheadZombie 4925 2 2 0
+200 200 6 2455 1 1 0 0 0 0
+RegularZombie 4925 2 2 0
+100 100 5 2099 1 1 0 0 0 0
+ConeheadZombie 4925 2 2 0
+200 200 6 2453 1 1 0 0 0 0
+ConeheadZombie 4945 2 2 0
+200 200 5 2459 1 1 0 0 0 0
+ConeheadZombie 4945 2 2 0
+200 200 5 2463 1 1 0 0 0 0
+ConeheadZombie 4975 2 2 0
+200 200 4 2467 1 1 0 0 0 0
+ConeheadZombie 4965 2 2 0
+200 200 4 2469 1 1 0 0 0 0
+ConeheadZombie 4975 2 2 0
+200 200 3 2477 1 1 0 0 0 0
+ConeheadZombie 4975 2 2 0
+200 200 3 2473 1 1 0 0 0 0
+ConeheadZombie 4975 2 2 0
+200 200 2 2481 1 1 0 0 0 0
+ConeheadZombie 4975 2 2 0
+200 200 2 2483 1 1 0 0 0 0
+ConeheadZombie 4975 2 2 0
+200 200 1 2487 1 1 0 0 0 0
+ConeheadZombie 6625 2 2 0
+200 200 20 3388 1 1 0 0 0 0
+ContentEnd
+ZombiePool 3
+ConeheadZombie 2165 3 3 0
+200 200 1 1049 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 1 1067 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 1 1091 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 1 1073 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 1 1097 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 1 1187 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 1 1109 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 1 1115 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 0 1053 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 0 1047 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 0 1059 1 1 0 0 0 0
+ConeheadZombie 2165 3 3 0
+200 200 0 1215 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 991 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1003 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1015 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1009 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1027 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1021 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1039 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1045 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1069 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1081 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1087 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1105 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1011 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1005 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1017 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1035 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1029 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1023 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1041 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1083 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 1 1095 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1061 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1055 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1043 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1037 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1211 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1205 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1229 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1111 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1201 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1033 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1063 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1057 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1051 1 1 0 0 0 0
+ConeheadZombie 2195 3 3 0
+200 200 0 1183 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1085 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1079 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1103 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1007 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1013 1 1 0 0 0 0
+ConeheadZombie 2205 3 3 0
+200 200 20 1077 1 1 0 0 0 0
+ConeheadZombie 2205 3 3 0
+200 200 20 1101 1 1 0 0 0 0
+ConeheadZombie 2205 3 3 0
+200 200 20 1071 1 1 0 0 0 0
+ConeheadZombie 2205 3 3 0
+200 200 20 1065 1 1 0 0 0 0
+ConeheadZombie 2205 3 3 0
+200 200 20 1197 1 1 0 0 0 0
+ConeheadZombie 2205 3 3 0
+200 200 20 1191 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1239 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1233 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 1089 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 993 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 17 999 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 20 989 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 20 1001 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 20 995 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 20 1025 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 20 1019 1 1 0 0 0 0
+ConeheadZombie 2215 3 3 0
+200 200 20 1031 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 18 1075 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 18 1225 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 18 1219 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 18 1099 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 18 1093 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 18 1243 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 19 1113 1 1 0 0 0 0
+ConeheadZombie 2235 3 3 0
+200 200 19 1107 1 1 0 0 0 0
+ConeheadZombie 2295 3 3 0
+200 200 4 997 1 1 0 0 0 0
+ConeheadZombie 2295 3 3 0
+200 200 20 1181 1 1 0 0 0 0
+ConeheadZombie 2315 3 3 0
+200 200 19 1189 1 1 0 0 0 0
+ConeheadZombie 2315 3 3 0
+200 200 19 1185 1 1 0 0 0 0
+ConeheadZombie 2345 3 3 0
+200 200 18 1195 1 1 0 0 0 0
+ConeheadZombie 2335 3 3 0
+200 200 18 1193 1 1 0 0 0 0
+ConeheadZombie 2345 3 3 0
+200 200 17 1199 1 1 0 0 0 0
+ConeheadZombie 2345 3 3 0
+200 200 17 1203 1 1 0 0 0 0
+ConeheadZombie 2355 3 3 0
+200 200 16 1209 1 1 0 0 0 0
+ConeheadZombie 2365 3 3 0
+200 200 16 1207 1 1 0 0 0 0
+ConeheadZombie 2385 3 3 0
+200 200 15 1213 1 1 0 0 0 0
+ConeheadZombie 2385 3 3 0
+200 200 15 1217 1 1 0 0 0 0
+ConeheadZombie 2405 3 3 0
+200 200 14 1223 1 1 0 0 0 0
+ConeheadZombie 2405 3 3 0
+200 200 14 1221 1 1 0 0 0 0
+ConeheadZombie 2425 3 3 0
+200 200 13 1227 1 1 0 0 0 0
+ConeheadZombie 2435 3 3 0
+200 200 13 1231 1 1 0 0 0 0
+ConeheadZombie 2455 3 3 0
+200 200 12 1237 1 1 0 0 0 0
+ConeheadZombie 2455 3 3 0
+200 200 12 1235 1 1 0 0 0 0
+ConeheadZombie 2475 3 3 0
+200 200 11 1241 1 1 0 0 0 0
+ConeheadZombie 2565 3 3 0
+200 200 4 1439 1 1 0 0 0 0
+ConeheadZombie 2575 3 3 0
+200 200 3 1449 1 1 0 0 0 0
+ConeheadZombie 2575 3 3 0
+200 200 3 1443 1 1 0 0 0 0
+ConeheadZombie 2575 3 3 0
+200 200 2 1453 1 1 0 0 0 0
+ConeheadZombie 2575 3 3 0
+200 200 1 1463 1 1 0 0 0 0
+ConeheadZombie 2575 3 3 0
+200 200 1 1457 1 1 0 0 0 0
+ConeheadZombie 2575 3 3 0
+200 200 0 1467 1 1 0 0 0 0
+ConeheadZombie 2595 3 3 0
+200 200 20 1477 1 1 0 0 0 0
+ConeheadZombie 2595 3 3 0
+200 200 20 1471 1 1 0 0 0 0
+ConeheadZombie 2615 3 3 0
+200 200 19 1481 1 1 0 0 0 0
+ConeheadZombie 2635 3 3 0
+200 200 18 1491 1 1 0 0 0 0
+ConeheadZombie 2635 3 3 0
+200 200 18 1485 1 1 0 0 0 0
+ConeheadZombie 2645 3 3 0
+200 200 17 1495 1 1 0 0 0 0
+ConeheadZombie 2665 3 3 0
+200 200 16 1505 1 1 0 0 0 0
+ConeheadZombie 2665 3 3 0
+200 200 16 1499 1 1 0 0 0 0
+ConeheadZombie 2685 3 3 0
+200 200 15 1509 1 1 0 0 0 0
+ConeheadZombie 2715 3 3 0
+200 200 14 1519 1 1 0 0 0 0
+ConeheadZombie 2715 3 3 0
+200 200 14 1513 1 1 0 0 0 0
+ConeheadZombie 2735 3 3 0
+200 200 13 1523 1 1 0 0 0 0
+ConeheadZombie 2755 3 3 0
+200 200 12 1533 1 1 0 0 0 0
+ConeheadZombie 2755 3 3 0
+200 200 12 1527 1 1 0 0 0 0
+ConeheadZombie 2785 3 3 0
+200 200 11 1537 1 1 0 0 0 0
+ConeheadZombie 2805 3 3 0
+200 200 10 1547 1 1 0 0 0 0
+ConeheadZombie 2805 3 3 0
+200 200 10 1541 1 1 0 0 0 0
+ConeheadZombie 2815 3 3 0
+200 200 9 1551 1 1 0 0 0 0
+ConeheadZombie 2815 3 3 0
+200 200 8 1561 1 1 0 0 0 0
+ConeheadZombie 2815 3 3 0
+200 200 8 1555 1 1 0 0 0 0
+ConeheadZombie 2815 3 3 0
+200 200 7 1565 1 1 0 0 0 0
+ConeheadZombie 2825 3 3 0
+200 200 6 1575 1 1 0 0 0 0
+ConeheadZombie 2825 3 3 0
+200 200 6 1569 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 4 1441 1 1 0 0 0 0
+ConeheadZombie 2865 3 3 0
+200 200 4 1437 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 3 1445 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 3 1447 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 2 1455 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 2 1451 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 1 1459 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 1 1461 1 1 0 0 0 0
+ConeheadZombie 2855 3 3 0
+200 200 5 1579 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 0 1469 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 0 1465 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 4 1589 1 1 0 0 0 0
+ConeheadZombie 2875 3 3 0
+200 200 4 1583 1 1 0 0 0 0
+ConeheadZombie 2885 3 3 0
+200 200 3 1593 1 1 0 0 0 0
+ConeheadZombie 2885 3 3 0
+200 200 2 1603 1 1 0 0 0 0
+ConeheadZombie 2885 3 3 0
+200 200 2 1597 1 1 0 0 0 0
+ConeheadZombie 2885 3 3 0
+200 200 1 1607 1 1 0 0 0 0
+ConeheadZombie 2885 3 3 0
+200 200 0 1617 1 1 0 0 0 0
+ConeheadZombie 2885 3 3 0
+200 200 0 1611 1 1 0 0 0 0
+ConeheadZombie 2885 3 3 0
+200 200 20 1473 1 1 0 0 0 0
+ConeheadZombie 2895 3 3 0
+200 200 20 1475 1 1 0 0 0 0
+ConeheadZombie 2905 3 3 0
+200 200 20 1621 1 1 0 0 0 0
+ConeheadZombie 2915 3 3 0
+200 200 19 1483 1 1 0 0 0 0
+ConeheadZombie 2915 3 3 0
+200 200 19 1479 1 1 0 0 0 0
+ConeheadZombie 2925 3 3 0
+200 200 19 1625 1 1 0 0 0 0
+ConeheadZombie 2945 3 3 0
+200 200 18 1489 1 1 0 0 0 0
+ConeheadZombie 2935 3 3 0
+200 200 18 1487 1 1 0 0 0 0
+ConeheadZombie 2945 3 3 0
+200 200 17 1493 1 1 0 0 0 0
+ConeheadZombie 2945 3 3 0
+200 200 17 1497 1 1 0 0 0 0
+ConeheadZombie 2955 3 3 0
+200 200 16 1503 1 1 0 0 0 0
+ConeheadZombie 2965 3 3 0
+200 200 16 1501 1 1 0 0 0 0
+ConeheadZombie 2985 3 3 0
+200 200 15 1507 1 1 0 0 0 0
+ConeheadZombie 2985 3 3 0
+200 200 15 1511 1 1 0 0 0 0
+ConeheadZombie 3005 3 3 0
+200 200 14 1517 1 1 0 0 0 0
+ConeheadZombie 3005 3 3 0
+200 200 14 1515 1 1 0 0 0 0
+ConeheadZombie 3025 3 3 0
+200 200 13 1521 1 1 0 0 0 0
+ConeheadZombie 3035 3 3 0
+200 200 13 1525 1 1 0 0 0 0
+ConeheadZombie 3055 3 3 0
+200 200 12 1531 1 1 0 0 0 0
+ConeheadZombie 3055 3 3 0
+200 200 12 1529 1 1 0 0 0 0
+ConeheadZombie 3075 3 3 0
+200 200 11 1535 1 1 0 0 0 0
+ConeheadZombie 3075 3 3 0
+200 200 11 1539 1 1 0 0 0 0
+ConeheadZombie 3095 3 3 0
+200 200 10 1545 1 1 0 0 0 0
+ConeheadZombie 3105 3 3 0
+200 200 10 1543 1 1 0 0 0 0
+ConeheadZombie 3105 3 3 0
+200 200 9 1549 1 1 0 0 0 0
+ConeheadZombie 3105 3 3 0
+200 200 9 1553 1 1 0 0 0 0
+ConeheadZombie 3125 3 3 0
+200 200 9 1701 1 1 0 0 0 0
+ConeheadZombie 3125 3 3 0
+200 200 9 1695 1 1 0 0 0 0
+ConeheadZombie 3105 3 3 0
+200 200 8 1559 1 1 0 0 0 0
+ConeheadZombie 3105 3 3 0
+200 200 8 1557 1 1 0 0 0 0
+ConeheadZombie 3125 3 3 0
+200 200 8 1705 1 1 0 0 0 0
+ConeheadZombie 3105 3 3 0
+200 200 7 1563 1 1 0 0 0 0
+ConeheadZombie 3105 3 3 0
+200 200 7 1567 1 1 0 0 0 0
+ConeheadZombie 3125 3 3 0
+200 200 7 1715 1 1 0 0 0 0
+ConeheadZombie 3125 3 3 0
+200 200 7 1709 1 1 0 0 0 0
+ConeheadZombie 3125 3 3 0
+200 200 6 1573 1 1 0 0 0 0
+ConeheadZombie 3125 3 3 0
+200 200 6 1571 1 1 0 0 0 0
+ConeheadZombie 3135 3 3 0
+200 200 6 1719 1 1 0 0 0 0
+ConeheadZombie 3145 3 3 0
+200 200 5 1577 1 1 0 0 0 0
+ConeheadZombie 3145 3 3 0
+200 200 5 1581 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 4 1585 1 1 0 0 0 0
+ConeheadZombie 3165 3 3 0
+200 200 4 1587 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 3 1595 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 3 1591 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 2 1599 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 2 1601 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 1 1609 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 1 1605 1 1 0 0 0 0
+ConeheadZombie 3165 3 3 0
+200 200 5 1729 1 1 0 0 0 0
+ConeheadZombie 3165 3 3 0
+200 200 5 1723 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 0 1613 1 1 0 0 0 0
+ConeheadZombie 3175 3 3 0
+200 200 0 1615 1 1 0 0 0 0
+ConeheadZombie 3185 3 3 0
+200 200 4 1733 1 1 0 0 0 0
+ConeheadZombie 3195 3 3 0
+200 200 3 1743 1 1 0 0 0 0
+ConeheadZombie 3195 3 3 0
+200 200 3 1737 1 1 0 0 0 0
+ConeheadZombie 3195 3 3 0
+200 200 2 1747 1 1 0 0 0 0
+ConeheadZombie 3185 3 3 0
+200 200 20 1623 1 1 0 0 0 0
+ConeheadZombie 3195 3 3 0
+200 200 20 1619 1 1 0 0 0 0
+ConeheadZombie 3215 3 3 0
+200 200 19 1627 1 1 0 0 0 0
+ConeheadZombie 3255 3 3 0
+200 200 18 1785 1 1 0 0 0 0
+ConeheadZombie 3265 3 3 0
+200 200 17 1789 1 1 0 0 0 0
+ConeheadZombie 3285 3 3 0
+200 200 16 1799 1 1 0 0 0 0
+ConeheadZombie 3285 3 3 0
+200 200 16 1793 1 1 0 0 0 0
+ConeheadZombie 3305 3 3 0
+200 200 15 1803 1 1 0 0 0 0
+ConeheadZombie 3335 3 3 0
+200 200 14 1813 1 1 0 0 0 0
+ConeheadZombie 3335 3 3 0
+200 200 14 1807 1 1 0 0 0 0
+ConeheadZombie 3355 3 3 0
+200 200 13 1817 1 1 0 0 0 0
+ConeheadZombie 3375 3 3 0
+200 200 12 1827 1 1 0 0 0 0
+ConeheadZombie 3375 3 3 0
+200 200 12 1821 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 10 1693 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 9 1699 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 9 1697 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 8 1703 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 8 1707 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 7 1713 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 11 1831 1 1 0 0 0 0
+ConeheadZombie 3405 3 3 0
+200 200 7 1711 1 1 0 0 0 0
+ConeheadZombie 3425 3 3 0
+200 200 6 1717 1 1 0 0 0 0
+ConeheadZombie 3425 3 3 0
+200 200 10 1841 1 1 0 0 0 0
+ConeheadZombie 3425 3 3 0
+200 200 10 1835 1 1 0 0 0 0
+ConeheadZombie 3425 3 3 0
+200 200 6 1721 1 1 0 0 0 0
+ConeheadZombie 3435 3 3 0
+200 200 9 1845 1 1 0 0 0 0
+ConeheadZombie 3445 3 3 0
+200 200 5 1727 1 1 0 0 0 0
+ConeheadZombie 3445 3 3 0
+200 200 5 1725 1 1 0 0 0 0
+ConeheadZombie 3475 3 3 0
+200 200 4 1735 1 1 0 0 0 0
+ConeheadZombie 3465 3 3 0
+200 200 4 1731 1 1 0 0 0 0
+ConeheadZombie 3475 3 3 0
+200 200 3 1739 1 1 0 0 0 0
+ConeheadZombie 3475 3 3 0
+200 200 3 1741 1 1 0 0 0 0
+ConeheadZombie 3475 3 3 0
+200 200 2 1749 1 1 0 0 0 0
+ConeheadZombie 3475 3 3 0
+200 200 2 1745 1 1 0 0 0 0
+ConeheadZombie 3545 3 3 0
+200 200 17 1787 1 1 0 0 0 0
+ConeheadZombie 3545 3 3 0
+200 200 17 1791 1 1 0 0 0 0
+ConeheadZombie 3555 3 3 0
+200 200 16 1797 1 1 0 0 0 0
+ConeheadZombie 3565 3 3 0
+200 200 16 1795 1 1 0 0 0 0
+ConeheadZombie 3585 3 3 0
+200 200 15 1801 1 1 0 0 0 0
+ConeheadZombie 3585 3 3 0
+200 200 15 1805 1 1 0 0 0 0
+ConeheadZombie 3605 3 3 0
+200 200 14 1811 1 1 0 0 0 0
+ConeheadZombie 3605 3 3 0
+200 200 14 1809 1 1 0 0 0 0
+ConeheadZombie 3625 3 3 0
+200 200 13 1815 1 1 0 0 0 0
+ConeheadZombie 3635 3 3 0
+200 200 13 1819 1 1 0 0 0 0
+ConeheadZombie 3655 3 3 0
+200 200 12 1825 1 1 0 0 0 0
+ConeheadZombie 3655 3 3 0
+200 200 12 1823 1 1 0 0 0 0
+ConeheadZombie 3675 3 3 0
+200 200 11 1829 1 1 0 0 0 0
+ConeheadZombie 3675 3 3 0
+200 200 11 1833 1 1 0 0 0 0
+ConeheadZombie 3695 3 3 0
+200 200 10 1839 1 1 0 0 0 0
+ConeheadZombie 3705 3 3 0
+200 200 10 1837 1 1 0 0 0 0
+ConeheadZombie 3705 3 3 0
+200 200 9 1843 1 1 0 0 0 0
+ConeheadZombie 3705 3 3 0
+200 200 9 1847 1 1 0 0 0 0
+ConeheadZombie 4365 3 3 0
+200 200 7 2303 1 1 0 0 0 0
+ConeheadZombie 4365 3 3 0
+200 200 7 2297 1 1 0 0 0 0
+ConeheadZombie 4375 3 3 0
+200 200 6 2307 1 1 0 0 0 0
+ConeheadZombie 4405 3 3 0
+200 200 5 2317 1 1 0 0 0 0
+ConeheadZombie 4405 3 3 0
+200 200 5 2311 1 1 0 0 0 0
+ConeheadZombie 4425 3 3 0
+200 200 4 2321 1 1 0 0 0 0
+ConeheadZombie 4435 3 3 0
+200 200 3 2331 1 1 0 0 0 0
+ConeheadZombie 4435 3 3 0
+200 200 3 2325 1 1 0 0 0 0
+ConeheadZombie 4435 3 3 0
+200 200 2 2335 1 1 0 0 0 0
+ConeheadZombie 4435 3 3 0
+200 200 1 2345 1 1 0 0 0 0
+ConeheadZombie 4435 3 3 0
+200 200 1 2339 1 1 0 0 0 0
+ConeheadZombie 4435 3 3 0
+200 200 0 2349 1 1 0 0 0 0
+ConeheadZombie 4455 3 3 0
+200 200 20 2359 1 1 0 0 0 0
+ConeheadZombie 4455 3 3 0
+200 200 20 2353 1 1 0 0 0 0
+ConeheadZombie 4605 3 3 0
+200 200 7 2301 1 1 0 0 0 0
+ConeheadZombie 4605 3 3 0
+200 200 7 2299 1 1 0 0 0 0
+ConeheadZombie 4625 3 3 0
+200 200 6 2305 1 1 0 0 0 0
+ConeheadZombie 4625 3 3 0
+200 200 6 2309 1 1 0 0 0 0
+ConeheadZombie 4645 3 3 0
+200 200 5 2315 1 1 0 0 0 0
+ConeheadZombie 4645 3 3 0
+200 200 5 2313 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 4 2323 1 1 0 0 0 0
+ConeheadZombie 4665 3 3 0
+200 200 4 2319 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 3 2327 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 3 2329 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 2 2337 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 2 2333 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 1 2341 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 1 2343 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 0 2351 1 1 0 0 0 0
+ConeheadZombie 4675 3 3 0
+200 200 0 2347 1 1 0 0 0 0
+ConeheadZombie 4685 3 3 0
+200 200 20 2355 1 1 0 0 0 0
+ConeheadZombie 4695 3 3 0
+200 200 20 2357 1 1 0 0 0 0
+ContentEnd
+ZombiePool 4
+ConeheadZombie 1695 4 4 0
+200 200 1 967 1 1 0 0 0 0
+ConeheadZombie 1695 4 4 0
+200 200 1 967 1 1 0 0 0 0
+ConeheadZombie 1695 4 4 0
+200 200 1 949 1 1 0 0 0 0
+ConeheadZombie 1695 4 4 0
+200 200 1 949 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 12 973 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 12 973 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 13 931 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 13 931 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 12 977 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 12 977 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 14 935 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 14 935 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 14 959 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 14 959 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 14 953 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 14 953 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 15 929 1 1 0 0 0 0
+ConeheadZombie 1705 4 4 0
+200 200 15 929 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 987 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 987 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 981 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 981 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 963 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 963 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 945 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 945 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 939 1 1 0 0 0 0
+ConeheadZombie 1725 4 4 0
+200 200 11 939 1 1 0 0 0 0
+ConeheadZombie 1735 4 4 0
+200 200 5 927 1 1 0 0 0 0
+ConeheadZombie 1735 4 4 0
+200 200 5 927 1 1 0 0 0 0
+ConeheadZombie 1765 4 4 0
+200 200 18 925 1 1 0 0 0 0
+ConeheadZombie 1765 4 4 0
+200 200 18 925 1 1 0 0 0 0
+ConeheadZombie 1825 4 4 0
+200 200 13 933 1 1 0 0 0 0
+ConeheadZombie 1825 4 4 0
+200 200 13 933 1 1 0 0 0 0
+ConeheadZombie 1835 4 4 0
+200 200 13 937 1 1 0 0 0 0
+ConeheadZombie 1835 4 4 0
+200 200 13 937 1 1 0 0 0 0
+ConeheadZombie 1855 4 4 0
+200 200 12 943 1 1 0 0 0 0
+ConeheadZombie 1855 4 4 0
+200 200 12 943 1 1 0 0 0 0
+ConeheadZombie 1855 4 4 0
+200 200 12 941 1 1 0 0 0 0
+ConeheadZombie 1855 4 4 0
+200 200 12 941 1 1 0 0 0 0
+ConeheadZombie 1875 4 4 0
+200 200 11 947 1 1 0 0 0 0
+ConeheadZombie 1875 4 4 0
+200 200 11 947 1 1 0 0 0 0
+ConeheadZombie 1875 4 4 0
+200 200 11 951 1 1 0 0 0 0
+ConeheadZombie 1875 4 4 0
+200 200 11 951 1 1 0 0 0 0
+ConeheadZombie 1895 4 4 0
+200 200 10 957 1 1 0 0 0 0
+ConeheadZombie 1895 4 4 0
+200 200 10 957 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 10 955 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 10 955 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 9 961 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 9 961 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 9 965 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 9 965 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 8 971 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 8 971 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 8 969 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 8 969 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 7 975 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 7 975 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 7 979 1 1 0 0 0 0
+ConeheadZombie 1905 4 4 0
+200 200 7 979 1 1 0 0 0 0
+ConeheadZombie 1925 4 4 0
+200 200 6 985 1 1 0 0 0 0
+ConeheadZombie 1925 4 4 0
+200 200 6 985 1 1 0 0 0 0
+ConeheadZombie 1925 4 4 0
+200 200 6 983 1 1 0 0 0 0
+ConeheadZombie 1925 4 4 0
+200 200 6 983 1 1 0 0 0 0
+ConeheadZombie 2185 4 4 0
+200 200 10 1253 1 1 0 0 0 0
+ConeheadZombie 2185 4 4 0
+200 200 10 1247 1 1 0 0 0 0
+ConeheadZombie 2195 4 4 0
+200 200 9 1257 1 1 0 0 0 0
+ConeheadZombie 2195 4 4 0
+200 200 8 1267 1 1 0 0 0 0
+ConeheadZombie 2195 4 4 0
+200 200 8 1261 1 1 0 0 0 0
+ConeheadZombie 2195 4 4 0
+200 200 7 1271 1 1 0 0 0 0
+ConeheadZombie 2205 4 4 0
+200 200 6 1281 1 1 0 0 0 0
+ConeheadZombie 2205 4 4 0
+200 200 6 1275 1 1 0 0 0 0
+ConeheadZombie 2235 4 4 0
+200 200 5 1285 1 1 0 0 0 0
+ConeheadZombie 2255 4 4 0
+200 200 4 1295 1 1 0 0 0 0
+ConeheadZombie 2255 4 4 0
+200 200 4 1289 1 1 0 0 0 0
+ConeheadZombie 2265 4 4 0
+200 200 3 1299 1 1 0 0 0 0
+ConeheadZombie 2265 4 4 0
+200 200 2 1309 1 1 0 0 0 0
+ConeheadZombie 2265 4 4 0
+200 200 2 1303 1 1 0 0 0 0
+ConeheadZombie 2265 4 4 0
+200 200 1 1313 1 1 0 0 0 0
+ConeheadZombie 2265 4 4 0
+200 200 0 1323 1 1 0 0 0 0
+ConeheadZombie 2265 4 4 0
+200 200 0 1317 1 1 0 0 0 0
+ConeheadZombie 2285 4 4 0
+200 200 20 1327 1 1 0 0 0 0
+ConeheadZombie 2305 4 4 0
+200 200 19 1337 1 1 0 0 0 0
+ConeheadZombie 2305 4 4 0
+200 200 19 1331 1 1 0 0 0 0
+ConeheadZombie 2325 4 4 0
+200 200 18 1341 1 1 0 0 0 0
+ConeheadZombie 2335 4 4 0
+200 200 17 1351 1 1 0 0 0 0
+ConeheadZombie 2335 4 4 0
+200 200 17 1345 1 1 0 0 0 0
+ConeheadZombie 2355 4 4 0
+200 200 16 1355 1 1 0 0 0 0
+ConeheadZombie 2375 4 4 0
+200 200 15 1365 1 1 0 0 0 0
+ConeheadZombie 2375 4 4 0
+200 200 15 1359 1 1 0 0 0 0
+ConeheadZombie 2405 4 4 0
+200 200 14 1369 1 1 0 0 0 0
+ConeheadZombie 2425 4 4 0
+200 200 13 1379 1 1 0 0 0 0
+ConeheadZombie 2425 4 4 0
+200 200 13 1373 1 1 0 0 0 0
+ConeheadZombie 2445 4 4 0
+200 200 12 1383 1 1 0 0 0 0
+ConeheadZombie 2475 4 4 0
+200 200 11 1393 1 1 0 0 0 0
+ConeheadZombie 2475 4 4 0
+200 200 11 1387 1 1 0 0 0 0
+ConeheadZombie 2475 4 4 0
+200 200 11 1245 1 1 0 0 0 0
+ConeheadZombie 2495 4 4 0
+200 200 10 1397 1 1 0 0 0 0
+ConeheadZombie 2495 4 4 0
+200 200 10 1251 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 10 1249 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 9 1407 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 9 1401 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 9 1255 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 9 1259 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 8 1411 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 8 1265 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 8 1263 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 7 1421 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 7 1415 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 7 1269 1 1 0 0 0 0
+ConeheadZombie 2505 4 4 0
+200 200 7 1273 1 1 0 0 0 0
+ConeheadZombie 2515 4 4 0
+200 200 6 1425 1 1 0 0 0 0
+ConeheadZombie 2525 4 4 0
+200 200 6 1279 1 1 0 0 0 0
+ConeheadZombie 2525 4 4 0
+200 200 6 1277 1 1 0 0 0 0
+ConeheadZombie 2545 4 4 0
+200 200 5 1435 1 1 0 0 0 0
+ConeheadZombie 2545 4 4 0
+200 200 5 1429 1 1 0 0 0 0
+ConeheadZombie 2545 4 4 0
+200 200 5 1283 1 1 0 0 0 0
+ConeheadZombie 2545 4 4 0
+200 200 5 1287 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 4 1291 1 1 0 0 0 0
+ConeheadZombie 2565 4 4 0
+200 200 4 1293 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 3 1301 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 3 1297 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 2 1305 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 2 1307 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 1 1315 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 1 1311 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 0 1319 1 1 0 0 0 0
+ConeheadZombie 2575 4 4 0
+200 200 0 1321 1 1 0 0 0 0
+ConeheadZombie 2585 4 4 0
+200 200 20 1329 1 1 0 0 0 0
+ConeheadZombie 2595 4 4 0
+200 200 20 1325 1 1 0 0 0 0
+ConeheadZombie 2615 4 4 0
+200 200 19 1333 1 1 0 0 0 0
+ConeheadZombie 2615 4 4 0
+200 200 19 1335 1 1 0 0 0 0
+ConeheadZombie 2645 4 4 0
+200 200 18 1339 1 1 0 0 0 0
+ConeheadZombie 2635 4 4 0
+200 200 18 1343 1 1 0 0 0 0
+ConeheadZombie 2645 4 4 0
+200 200 17 1349 1 1 0 0 0 0
+ConeheadZombie 2645 4 4 0
+200 200 17 1347 1 1 0 0 0 0
+ConeheadZombie 2655 4 4 0
+200 200 16 1353 1 1 0 0 0 0
+ConeheadZombie 2665 4 4 0
+200 200 16 1357 1 1 0 0 0 0
+ConeheadZombie 2685 4 4 0
+200 200 15 1363 1 1 0 0 0 0
+ConeheadZombie 2685 4 4 0
+200 200 15 1361 1 1 0 0 0 0
+ConeheadZombie 2705 4 4 0
+200 200 14 1367 1 1 0 0 0 0
+ConeheadZombie 2705 4 4 0
+200 200 14 1371 1 1 0 0 0 0
+ConeheadZombie 2725 4 4 0
+200 200 13 1377 1 1 0 0 0 0
+ConeheadZombie 2735 4 4 0
+200 200 13 1375 1 1 0 0 0 0
+ConeheadZombie 2755 4 4 0
+200 200 12 1381 1 1 0 0 0 0
+ConeheadZombie 2755 4 4 0
+200 200 12 1385 1 1 0 0 0 0
+ConeheadZombie 2775 4 4 0
+200 200 11 1391 1 1 0 0 0 0
+ConeheadZombie 2775 4 4 0
+200 200 11 1389 1 1 0 0 0 0
+ConeheadZombie 2795 4 4 0
+200 200 10 1395 1 1 0 0 0 0
+ConeheadZombie 2805 4 4 0
+200 200 10 1399 1 1 0 0 0 0
+ConeheadZombie 2805 4 4 0
+200 200 9 1405 1 1 0 0 0 0
+ConeheadZombie 2805 4 4 0
+200 200 9 1403 1 1 0 0 0 0
+ConeheadZombie 2805 4 4 0
+200 200 8 1409 1 1 0 0 0 0
+ConeheadZombie 2805 4 4 0
+200 200 8 1413 1 1 0 0 0 0
+ConeheadZombie 2805 4 4 0
+200 200 7 1419 1 1 0 0 0 0
+ConeheadZombie 2805 4 4 0
+200 200 7 1417 1 1 0 0 0 0
+ConeheadZombie 2815 4 4 0
+200 200 7 1565 1 1 0 0 0 0
+ConeheadZombie 2825 4 4 0
+200 200 6 1423 1 1 0 0 0 0
+ConeheadZombie 2825 4 4 0
+200 200 6 1427 1 1 0 0 0 0
+ConeheadZombie 2825 4 4 0
+200 200 6 1575 1 1 0 0 0 0
+ConeheadZombie 2825 4 4 0
+200 200 6 1569 1 1 0 0 0 0
+ConeheadZombie 2845 4 4 0
+200 200 5 1433 1 1 0 0 0 0
+ConeheadZombie 2845 4 4 0
+200 200 5 1431 1 1 0 0 0 0
+ConeheadZombie 2855 4 4 0
+200 200 5 1579 1 1 0 0 0 0
+ConeheadZombie 2875 4 4 0
+200 200 4 1589 1 1 0 0 0 0
+ConeheadZombie 2875 4 4 0
+200 200 4 1583 1 1 0 0 0 0
+ConeheadZombie 2885 4 4 0
+200 200 3 1593 1 1 0 0 0 0
+ConeheadZombie 2885 4 4 0
+200 200 2 1603 1 1 0 0 0 0
+ConeheadZombie 2885 4 4 0
+200 200 2 1597 1 1 0 0 0 0
+ConeheadZombie 2885 4 4 0
+200 200 1 1607 1 1 0 0 0 0
+ConeheadZombie 2885 4 4 0
+200 200 0 1617 1 1 0 0 0 0
+ConeheadZombie 2885 4 4 0
+200 200 0 1611 1 1 0 0 0 0
+ConeheadZombie 2905 4 4 0
+200 200 20 1621 1 1 0 0 0 0
+ConeheadZombie 2925 4 4 0
+200 200 19 1625 1 1 0 0 0 0
+ConeheadZombie 3105 4 4 0
+200 200 7 1567 1 1 0 0 0 0
+ConeheadZombie 3125 4 4 0
+200 200 6 1573 1 1 0 0 0 0
+ConeheadZombie 3125 4 4 0
+200 200 6 1571 1 1 0 0 0 0
+ConeheadZombie 3145 4 4 0
+200 200 5 1577 1 1 0 0 0 0
+ConeheadZombie 3145 4 4 0
+200 200 5 1581 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 4 1585 1 1 0 0 0 0
+ConeheadZombie 3165 4 4 0
+200 200 4 1587 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 3 1595 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 3 1591 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 2 1599 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 2 1601 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 1 1609 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 1 1605 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 0 1613 1 1 0 0 0 0
+ConeheadZombie 3175 4 4 0
+200 200 0 1615 1 1 0 0 0 0
+ConeheadZombie 3185 4 4 0
+200 200 20 1623 1 1 0 0 0 0
+ConeheadZombie 3195 4 4 0
+200 200 20 1619 1 1 0 0 0 0
+ConeheadZombie 3215 4 4 0
+200 200 19 1627 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 3 1311 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 3 1309 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 3 1313 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 2 1323 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 2 1317 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 2 1321 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 2 1315 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 2 1319 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 1 1329 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 1 1327 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 1 1331 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 1 1325 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 0 1341 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 0 1335 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 0 1339 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 0 1333 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 0 1337 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 17 1347 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 17 1345 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 17 1349 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 17 1343 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 16 1359 1 1 0 0 0 0
+RegularZombie 3475 4 4 0
+100 100 16 1353 1 1 0 0 0 0
+RegularZombie 3485 4 4 0
+100 100 16 1357 1 1 0 0 0 0
+RegularZombie 3485 4 4 0
+100 100 16 1351 1 1 0 0 0 0
+RegularZombie 3485 4 4 0
+100 100 16 1355 1 1 0 0 0 0
+RegularZombie 3505 4 4 0
+100 100 15 1365 1 1 0 0 0 0
+RegularZombie 3515 4 4 0
+100 100 15 1363 1 1 0 0 0 0
+RegularZombie 3515 4 4 0
+100 100 15 1367 1 1 0 0 0 0
+RegularZombie 3515 4 4 0
+100 100 15 1361 1 1 0 0 0 0
+RegularZombie 3535 4 4 0
+100 100 14 1371 1 1 0 0 0 0
+RegularZombie 3545 4 4 0
+100 100 14 1369 1 1 0 0 0 0
+ConeheadZombie 4475 4 4 0
+200 200 19 2363 1 1 0 0 0 0
+ConeheadZombie 4495 4 4 0
+200 200 18 2373 1 1 0 0 0 0
+ConeheadZombie 4495 4 4 0
+200 200 18 2367 1 1 0 0 0 0
+ConeheadZombie 4505 4 4 0
+200 200 17 2377 1 1 0 0 0 0
+ConeheadZombie 4525 4 4 0
+200 200 16 2387 1 1 0 0 0 0
+ConeheadZombie 4525 4 4 0
+200 200 16 2381 1 1 0 0 0 0
+ConeheadZombie 4545 4 4 0
+200 200 15 2391 1 1 0 0 0 0
+ConeheadZombie 4575 4 4 0
+200 200 14 2401 1 1 0 0 0 0
+ConeheadZombie 4575 4 4 0
+200 200 14 2395 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 8 1917 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 8 1915 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 8 1913 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 7 1923 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 7 1921 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 7 1925 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 7 1919 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 6 1935 1 1 0 0 0 0
+RegularZombie 4585 4 4 0
+100 100 6 1929 1 1 0 0 0 0
+RegularZombie 4595 4 4 0
+100 100 6 1933 1 1 0 0 0 0
+RegularZombie 4595 4 4 0
+100 100 6 1927 1 1 0 0 0 0
+RegularZombie 4595 4 4 0
+100 100 6 1931 1 1 0 0 0 0
+ConeheadZombie 4595 4 4 0
+200 200 13 2405 1 1 0 0 0 0
+RegularZombie 4615 4 4 0
+100 100 5 1941 1 1 0 0 0 0
+ConeheadZombie 4615 4 4 0
+200 200 12 2415 1 1 0 0 0 0
+ConeheadZombie 4615 4 4 0
+200 200 12 2409 1 1 0 0 0 0
+RegularZombie 4625 4 4 0
+100 100 5 1939 1 1 0 0 0 0
+RegularZombie 4625 4 4 0
+100 100 5 1943 1 1 0 0 0 0
+RegularZombie 4625 4 4 0
+100 100 5 1937 1 1 0 0 0 0
+ConeheadZombie 4645 4 4 0
+200 200 11 2419 1 1 0 0 0 0
+RegularZombie 4645 4 4 0
+100 100 4 1953 1 1 0 0 0 0
+RegularZombie 4645 4 4 0
+100 100 4 1947 1 1 0 0 0 0
+RegularZombie 4655 4 4 0
+100 100 4 1951 1 1 0 0 0 0
+RegularZombie 4655 4 4 0
+100 100 4 1945 1 1 0 0 0 0
+RegularZombie 4655 4 4 0
+100 100 4 1949 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 3 1959 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 3 1957 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 3 1961 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 3 1955 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 2 1971 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 2 1965 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 2 1969 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 2 1963 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 2 1967 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 1 1977 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 1 1975 1 1 0 0 0 0
+ConeheadZombie 4665 4 4 0
+200 200 10 2423 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 1 1973 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 0 1989 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 0 1983 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 0 1987 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 0 1981 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 0 1985 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 17 1995 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 17 1993 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 17 1997 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 17 1991 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 16 2007 1 1 0 0 0 0
+RegularZombie 4675 4 4 0
+100 100 16 2001 1 1 0 0 0 0
+RegularZombie 4685 4 4 0
+100 100 16 2005 1 1 0 0 0 0
+RegularZombie 4685 4 4 0
+100 100 16 1999 1 1 0 0 0 0
+RegularZombie 4685 4 4 0
+100 100 16 2003 1 1 0 0 0 0
+RegularZombie 4705 4 4 0
+100 100 15 2013 1 1 0 0 0 0
+ConeheadZombie 4715 4 4 0
+200 200 19 2365 1 1 0 0 0 0
+RegularZombie 4715 4 4 0
+100 100 15 2011 1 1 0 0 0 0
+RegularZombie 4715 4 4 0
+100 100 15 2015 1 1 0 0 0 0
+RegularZombie 4715 4 4 0
+100 100 15 2009 1 1 0 0 0 0
+ConeheadZombie 4715 4 4 0
+200 200 19 2361 1 1 0 0 0 0
+ConeheadZombie 4745 4 4 0
+200 200 18 2371 1 1 0 0 0 0
+ConeheadZombie 4735 4 4 0
+200 200 18 2369 1 1 0 0 0 0
+ConeheadZombie 4745 4 4 0
+200 200 17 2375 1 1 0 0 0 0
+RegularZombie 4735 4 4 0
+100 100 14 2025 1 1 0 0 0 0
+RegularZombie 4735 4 4 0
+100 100 14 2019 1 1 0 0 0 0
+ConeheadZombie 4745 4 4 0
+200 200 17 2379 1 1 0 0 0 0
+RegularZombie 4745 4 4 0
+100 100 14 2023 1 1 0 0 0 0
+RegularZombie 4745 4 4 0
+100 100 14 2017 1 1 0 0 0 0
+RegularZombie 4745 4 4 0
+100 100 14 2021 1 1 0 0 0 0
+ConeheadZombie 4755 4 4 0
+200 200 16 2385 1 1 0 0 0 0
+ConeheadZombie 4765 4 4 0
+200 200 16 2383 1 1 0 0 0 0
+RegularZombie 4765 4 4 0
+100 100 13 2031 1 1 0 0 0 0
+RegularZombie 4775 4 4 0
+100 100 13 2029 1 1 0 0 0 0
+RegularZombie 4775 4 4 0
+100 100 13 2033 1 1 0 0 0 0
+RegularZombie 4775 4 4 0
+100 100 13 2027 1 1 0 0 0 0
+ConeheadZombie 4785 4 4 0
+200 200 15 2389 1 1 0 0 0 0
+ConeheadZombie 4785 4 4 0
+200 200 15 2393 1 1 0 0 0 0
+RegularZombie 4795 4 4 0
+100 100 12 2037 1 1 0 0 0 0
+RegularZombie 4805 4 4 0
+100 100 12 2035 1 1 0 0 0 0
+RegularZombie 4805 4 4 0
+100 100 12 2039 1 1 0 0 0 0
+ConeheadZombie 4805 4 4 0
+200 200 14 2399 1 1 0 0 0 0
+ConeheadZombie 4805 4 4 0
+200 200 14 2397 1 1 0 0 0 0
+ConeheadZombie 4825 4 4 0
+200 200 13 2403 1 1 0 0 0 0
+ConeheadZombie 4835 4 4 0
+200 200 13 2407 1 1 0 0 0 0
+ConeheadZombie 4855 4 4 0
+200 200 12 2413 1 1 0 0 0 0
+ConeheadZombie 4855 4 4 0
+200 200 12 2411 1 1 0 0 0 0
+ConeheadZombie 4875 4 4 0
+200 200 11 2417 1 1 0 0 0 0
+ConeheadZombie 4875 4 4 0
+200 200 11 2421 1 1 0 0 0 0
+ConeheadZombie 5725 4 4 0
+200 200 13 2847 1 1 0 0 0 0
+ConeheadZombie 5725 4 4 0
+200 200 13 2847 1 1 0 0 0 0
+ContentEnd
+Map
+ContentEnd
+BulletPool 0
+ContentEnd
+BulletPool 1
+ContentEnd
+BulletPool 2
+ContentEnd
+BulletPool 3
+ContentEnd
+BulletPool 4
+ContentEnd
+SunPool 0
+ContentEnd
+SunPool 1
+ContentEnd
+SunPool 2
+ContentEnd
+SunPool 3
+ContentEnd
+SunPool 4
+ContentEnd
+SunPool 5
+Sun 4900 7861
+26 5199 0 315 0.0000000000 0.0000000000 0.5000000000
+ContentEnd
+CardPool_Content
+PeaShooter_Card 80 3 5000 75
+1 0 29806
+SunFlower_Card 107 3 5000 75
+1 0 602
+SnowPea_Card 134 3 5000 75
+1 0 29806
+Repeater_Card 161 3 5000 75
+1 0 29806
+WallNut_Card 188 3 5000 75
+1 0 742
+ContentEnd
+SunScore 0 0

@@ -1,0 +1,57 @@
+# CHECK_SFML:
+#     @test -d $(INCLUDE_DIR) || (echo "SFML include dir missing"; exit 1)
+#     @test -d $(LIB_DIR) || (echo "SFML lib dir missing"; exit 1)
+
+# Compiler settings
+CXX := g++
+CXXFLAGS := -Wall -Wextra -g3
+LDFLAGS := -W
+# ,-rpath= '$$ORIGIN'  # 动态库搜索路径设置
+LDLIBS := -lsfml-graphics -lsfml-window -lsfml-system
+
+# Project directories
+TEST_DIR := test
+TEST_BUILD_DIR := test_output
+
+SRC_DIR := src
+BUILD_DIR := bin
+ICON_DIR := icon
+
+# 修改为Linux系统路径格式
+INCLUDE_DIR := /home/developer/Desktop/SFML-3.0.0/include/
+LIB_DIR := /home/developer/Desktop/SFML-3.0.0/lib/
+
+# Source files and target
+TEST_SRCS := $(wildcard $(TEST_DIR)/*.cpp)
+TEST_TARGET := $(TEST_BUILD_DIR)/main
+
+SRCS := $(wildcard $(SRC_DIR)/*.cpp)
+TARGET := $(BUILD_DIR)/PVZ
+
+# Additional flags
+INCLUDE_FLAGS := -I$(INCLUDE_DIR)
+LIB_FLAGS := -L$(LIB_DIR)
+
+.PHONY: testall testclean testrun all clean run
+
+all: $(TARGET)
+$(TARGET): $(SRCS)
+	mkdir -p $(BUILD_DIR)
+	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) $^ -o $@ $(LIB_FLAGS) $(LDLIBS) $(LDFLAGS)
+
+testall: $(TEST_TARGET)
+$(TEST_TARGET): $(TEST_SRCS)
+	mkdir -p $(TEST_BUILD_DIR)
+	$(CXX) $(CXXFLAGS) $(INCLUDE_FLAGS) $^ -o $@ $(LIB_FLAGS) $(LDLIBS)
+
+testclean:
+	rm -rf $(TEST_BUILD_DIR)/*
+
+clean:
+	rm -rf $(BUILD_DIR)/PVZ
+
+testrun:
+	./$(TEST_TARGET)
+
+run: all
+	./$(TARGET)

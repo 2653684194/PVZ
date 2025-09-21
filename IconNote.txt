@@ -1,0 +1,2 @@
+echo 'MAINICON ICON "PVZ.ico"' | Out-File -Encoding ASCII PVZ.rc
+windres PVZ.rc -O coff -o PVZ.res

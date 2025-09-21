@@ -1,0 +1,5 @@
+g++ -Wall -Wextra -g3 d:\AAA_C\TestSFML\main.cpp -o d:\AAA_C\TestSFML\main.exe -ID:\AAA_C\AAA_Lib\SFML\SFML-3_0_0-64bit\include -LD:\AAA_C\AAA_Lib\SFML\SFML-3_0_0-64bit\lib -lsfml-graphics -lsfml-window -lsfml-system
+
+g++ -Wall -Wextra -g3 d:\AAA_C\TestSFML\src\main.cpp d:\AAA_C\TestSFML\src\test.cpp -o d:\AAA_C\TestSFML\main.exe -ID:\AAA_C\AAA_Lib\SFML\SFML-3_0_0-64bit\include -LD:\AAA_C\AAA_Lib\SFML\SFML-3_0_0-64bit\lib -lsfml-graphics -lsfml-window -lsfml-system
+
+g++ -Wall -Wextra -g3 d:\AAA_C\TestSFML\src\main.cpp d:\AAA_C\TestSFML\src\test.cpp -o d:\AAA_C\TestSFML\aaa_output\main.exe -ID:\AAA_C\AAA_Lib\SFML\SFML-3_0_0-64bit\include -LD:\AAA_C\AAA_Lib\SFML\SFML-3_0_0-64bit\lib -lsfml-graphics -lsfml-window -lsfml-system

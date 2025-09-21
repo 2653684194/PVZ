@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:\\AAA_C\\AAA_Lib\\SFML\\SFML-3_0_0-64bit\\include",//结合自身情况修改path
+                "D:\\AAA_C\\AAA_Lib\\win32"//结合自身情况修改path
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "D:\\AAA_C\\AAA_MinGW\\mingw64\\bin\\g++.exe",//结合自身情况修改path
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
